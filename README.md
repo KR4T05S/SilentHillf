@@ -9,8 +9,7 @@
 7. Be happy about your merged localization and contribution.
 ```
 
-# NOTE
-### The Game.csv file has 3 columns
+# NOTE: The Game.csv file has 3 columns
 ```
 Key column is the variable name of the words. For example: 'D_Ch01_HLS_StringTable/Str_Ch01_HLS_VO_FoxStatue_010' is a sentence that used in Chapter 01 and somewhere at Fox Statue. 
 Source column is the original ENG texts that the game already has.
