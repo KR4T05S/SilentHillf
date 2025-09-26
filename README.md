@@ -1,10 +1,12 @@
 # Silent Hill f Localization Project
 ```
 1. Fork the project.
-2. Edit the Game.csv file.
-3. Create a Pull-Request.
-4. Wait for review and approval.
-5. Be happy about your merged localization and contribution.
+2. Download the Game.csv file.
+3. Open the Game.csv file via MS Excel, LibrOffice Calc or any other editor.
+4. Edit the Game.csv file.
+5. Create a Pull-Request.
+6. Wait for review and approval.
+7. Be happy about your merged localization and contribution.
 ```
 
 # NOTE
