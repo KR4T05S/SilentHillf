@@ -2,7 +2,7 @@
 ```
 1. Fork the project.
 2. Download the Game.csv file.
-3. Open the Game.csv file via MS Excel, LibrOffice Calc or any other editor.
+3. Open the Game.csv file via MS Excel, LibreOffice Calc or any other editor.
 4. Edit the Game.csv file.
 5. Create a Pull-Request.
 6. Wait for review and approval.
