@@ -15,6 +15,7 @@ Source column is the original ENG texts that the game already has.
 Target column is the column that containing the localization texts.
 
 Just read from source column and localize to target column. Use the 'Key' column for understanding the context.
+DO NOT EDIT 'KEY' or 'SOURCE' columns!!!
 ```
 # UPDATE
 ```
