@@ -16,3 +16,8 @@ Target column is the column that containing the localization texts.
 
 Just read from source column and localize to target column. Use the 'Key' column for understanding the context.
 ```
+# UPDATE
+```
+The localization is completed between line 1 and line 700.
+TOTAL COMPLETION PERCENTAGE = 14.69%
+```
