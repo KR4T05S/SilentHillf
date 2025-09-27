@@ -13,10 +13,10 @@ D_Ch01_ALW_StringTable/Str_Ch01_ALW_VO_CapsuleBoxLetterR2_010,It's... It's just 
 D_Ch01_ALW_StringTable/Str_Ch01_ALW_VO_WorriedFriends_020,I really hope Shu and Rinko are all right.,Umarım Shu ve Rinko iyidir.
 D_Ch01_ALW_StringTable/Str_Ch01_ALW_VO_InAlleyway_030,I need to get back to Sakuko!,Sakuko'nun yanına dönmem gerek!
 D_Ch01_ALW_StringTable/Str_Ch01_ALW_VO_LeaveAlleyway_010,Damn you!,Kahrolasıca!
-D_Ch01_ALW_StringTable/Str_Ch01_ALW_VO_InToHouse_010,Um... Anyone here...?,Şey... Buralarda kimse var mı...?
+D_Ch01_ALW_StringTable/Str_Ch01_ALW_VO_InToHouse_010,Um... Anyone here...?,Şey... Burada kimse var mı...?
 D_Ch01_ALW_StringTable/Str_Ch01_ALW_EnvInfo_LadyMagazine_010,"Household Tips for the Good Wife and Wise Mother.
 A collection of loving ways for mothers to create the perfect home.","İyi Eş ve Bilge Anneler İçin Ev İşlerine Dair İpuçları.
-Annelerin mükemmel bir ev yaratmalarına yardımcı olacak sevgi dolu yolların bir koleksiyonu."
+Annelerin mükemmel bir ev yaratmalarına yardımcı olacak sevgi dolu yöntemlerin bir koleksiyonu."
 D_Ch01_ALW_StringTable/Str_Ch01_ALW_VO_InAlleyway_020,What is this place?,Burası neresi?
 D_Ch01_ALW_StringTable/Str_Ch01_ALW_VO_WorriedFriends_010,This isn't good...,Bu iyi değil...
 D_Ch01_ALW_StringTable/Str_Ch01_ALW_Thoughts_WrongKey_010,(The key doesn't fit...),(Anahtar uymuyor...)
@@ -72,10 +72,10 @@ Last Seen Wearing:
 White blouse, long navy skirt, beige neckerchief with black polka dots
 
 Details of Disappearance:
-(The rest has been torn off.)","Adı:
+(The rest has been torn off.)","İsim:
 Suzutani Mayumi
 
-Son Görüldüğünde Giydikleri:
+Son Görüldüğünde Giydiği:
 Beyaz bluz, uzun lacivert etek, siyah puantiyeli bej fular
 
 Kaybolma Detayları:
@@ -126,11 +126,11 @@ Plum, loved by all and always at the center of any group, was wed to Bamboo.
 
 Chrysanthemum, who had no mate, spent their days studying under Kudzu and became known as the ""Sage of the East.""
 
-Let the prosperity of our clan be eternal.","Kudzu, herkesin saygı duyduğu ve halkın lideri olan kişi, Çam ile evliydi.
+Let the prosperity of our clan be eternal.","Japonsarmaşığı, herkesin saygı duyduğu ve halkın lideri olan kişi, Çam ile evliydi.
 
 Erik, herkesin sevdiği ve her grubun merkezi olan kişi, Bambu ile evliydi.
 
-Krizantem, eşi olmayan kişi, günlerini Kudzu'nun yanında ders çalışarak geçirdi ve ""Doğu Bilgesi"" olarak tanındı.
+Kasımpatı, eşi olmayan kişi, günlerini Japonsarmaşığı'nın yanında ders çalışarak geçirdi ve ""Doğu Bilgesi"" olarak tanındı.
 
 Klanımızın refahı sonsuz olsun."
 D_Ch02_EHL_StringTable/Str_Ch02_EHL_VO_Altar_010,What's this?,Bu da ne?
@@ -140,7 +140,7 @@ D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_Doll_010,What's this doing here?!,Bu da n
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_EmaLock_020,...It's locked!,...Kilitli!
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_ChasedByCrawler_B,Leave me alone!,Beni rahat bırak!
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_FoxManCall_030,Now then...,Peki...
-D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_MonsterofCaldron_010_Hard_Hint,Yokai of the Umbrella,Şemsiye Yokaisi
+D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_MonsterofCaldron_010_Hard_Hint,Yokai of the Umbrella,Şemsiye Yokai’si
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_ReturnToGate_010,No! Stay away from me!,Hayır! Benden uzak dur!
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_GetEmaClue_030,"Alright, time to try that lock.","Pekala, o kilidi deneme zamanı."
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_FoxManCall_020,Mind your step.,Adımlarına dikkat et.
@@ -192,28 +192,28 @@ their legs.
 
 Only the losses of each shall purify this corruption.","Kutsal topraklarımıza girmeye cüret eden yozlaşmış ruhlara, felaket ve yıkımla karşılaşın.
 
-Araba Yokaileri'nin başları kesildi.
-Şemsiye Yokaileri'nin,
+Araba Yokai’lerinin başları kesildi.
+Şemsiye Yokai’lerinin,
 kolları.
-Ve Ketıl Yokaileri'nin,
+Ve Çaydanlık Yokai’lerinin,
 bacakları.
 
 Sadece her birinin kaybı bu yozlaşmayı temizleyecektir."
-D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_Kuzuba_010_Normal_Hint,Kudzu,Kudzu
+D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_Kuzuba_010_Normal_Hint,Kudzu,Japonsarmaşığı
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_Serpents_010_Easy_Hint,Serpent,Yılan
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_EmaHint_010_Normal,"Lightning cast down from the heavens split asunder the decayed tree.
 
 From the earth grows kudzu, the prophet of eternal prosperity.","Göklerden inen şimşek, çürümüş ağacı ikiye böldü.
 
-Topraktan büyüyen kudzu, ebedi refahın peygamberidir."
+Topraktan büyüyen japonsarmaşığı, ebedi refahın peygamberidir."
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_FoxManCall_060,This way.,Bu tarafa.
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_FoxManCall_010,"This way, Hinako.","Bu tarafa, Hinako."
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_FollowFoxMan_B,I guess I better follow him.,Sanırım onu takip etsem iyi olacak.
-D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_MonsterofCage_010_Hard_Hint,Yokai of the Carriage,Araba Yokaisi
+D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_MonsterofCage_010_Hard_Hint,Yokai of the Carriage,Araba Yokai’si
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_FrontGate_010,Wait... What's this shrine?,Bekle... Bu tapınak da ne?
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_GetEmaClue_020,One left.,Bir tane kaldı.
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_VO_EnterWarehouse_010,That man... Where'd he go?,O adam... Nereye gitti?
-D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_MonsterofCovering_010_Hard_Hint,Yokai of the Kettle,Çaydanlık Yokaisi
+D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_MonsterofCovering_010_Hard_Hint,Yokai of the Kettle,Çaydanlık Yokai’si
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_Lighting_010_Normal_Hint,Lightning,Şimşek
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_Cranes_010_Easy_Hint,Crane,Turna
 D_Ch02_TOR_StringTable/Str_Ch02_TOR_Puzzle_Tortoises_010_Easy_Hint,Tortoise,Kaplumbağa
@@ -510,10 +510,10 @@ D_Ch05_SCL_StringTable/Str_Ch05_SCL_EnvInfo_KeyLocation_010,"Chrysanthemums grow
 Did you know that Vice Principal Matsuo has a green thumb?
 His exquisite chrysanthemums took the top prize in their category at the Floriculture Fair held by the Prefectural Council!
 
-If you haven't already, take this opportunity to admire the vice principal's masterfully pruned flower displays on the school grounds.","Müdür yardımcımızın yetiştirdiği krizantemler Vali Ödülü'nü kazandı!
+If you haven't already, take this opportunity to admire the vice principal's masterfully pruned flower displays on the school grounds.","Müdür yardımcımızın yetiştirdiği kasımpatılar Vali Ödülü'nü kazandı!
 
 Müdür Yardımcısı Matsuo'nun eli yatkınmış, biliyor muydunuz?
-Muhteşem krizantemleri, İl Meclisi tarafından düzenlenen Çiçekçilik Fuarı'nda kendi kategorisinde birincilik ödülünü aldı!
+Onun muhteşem kasımpatıları, İl Meclisi tarafından düzenlenen Çiçekçilik Fuarı'nda kendi kategorisinde birincilik ödülünü aldı!
 
 Henüz görmediyseniz, okul bahçesinde müdür yardımcımızın ustalıkla budadığı çiçek sergilerini hayranlıkla izleme fırsatını kaçırmayın."
 D_Ch05_SCL_StringTable/Str_Ch05_SCL_EnvInfo_PuzzleHardClue_010,"Congratulations to Track & Field Club member Suga Yosie (Senior, Class 1) on winning the 100m race at the prefectural meet!","Atletizm Kulübü üyesi Suga Yosie'yi (Lise Son, Sınıf 1), ilçe yarışmasında 100 metre yarışını kazandığı için tebrik ederiz!"
@@ -1172,11 +1172,11 @@ D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_SecondMemoryB_085,That's understandable.,
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_SecondMemoryC_070,It's all so strange. ,Her şey çok garip.
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_SecondMemoryC_066,It's not really my place...,Bu benim haddim değil...
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryD_100,That's where you're wrong. ,İşte burada yanılıyorsun.
-D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_ThirdMemoryC_120,Is this...what she's been reading?,Bu... okuduğu şey bu mu?
+D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_ThirdMemoryC_120,Is this...what she's been reading?,Okuduğu... şey bu mu?
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_MimicRoom_C,This room... I don't recognize it...,Bu oda... Tanıyamıyorum...
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_GetFirstBlock_010,What's this?,Bu da ne?
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_MyRoom_010,Is this...my room?,Burası... benim odam mı?
-D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_Diary_010,My diary...?,Günlüğüm mü...?
+D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_Diary_010,My diary...?,Günlüğüm...?
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryC_153,I saw the world differently than others.,Dünyayı diğerlerinden farklı görüyordum.
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_SecondMemoryC_105,"You've got a bad habit of rushing things, y'know.","Biliyorsun, işleri aceleye getirme gibi kötü bir alışkanlığın var."
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_BalancePuzzle_010,I used to play with this all the time.,Bununla sürekli oynardım.
@@ -1186,7 +1186,7 @@ D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_PickupPhone_023,This is Okamoto Fisheries
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_MimicRoom_B,Is this really my house...?,Burası gerçekten benim evim mi...?
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_ThirdMemoryD_050,For what?,Neye?
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_SecondMemoryA_045_Eng,"It's because of your debt, isn't it?!","Bu senin borcun yüzünden, değil mi?!"
-D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_ThirdMemoryA_040,Then tell him I'm heading out shopping or something!,O zaman ona alışverişe çıktığımı ya da bir şeyler uydurduğumu söyle!
+D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_ThirdMemoryA_040,Then tell him I'm heading out shopping or something!,O zaman ona alışverişe çıktığımı falan söyle. Uydur bişeyler!
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_SecondMemoryA_080,That money was for our family! ,O para bizim ailemiz içindi!
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryB_105,"I guess I'll give it to someone else, then.",O zaman sanırım başkasına vereceğim.
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryA_100,I made a mistake. ,Ben bir hata yaptım.
@@ -1211,7 +1211,7 @@ D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryC_065,I wanna be a boy!,Erkek 
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryC_010,"She told them she wanted to play house,",Onlara evcilik oynamak istediğini söyledi.
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryA_105,You just focus on getting to school.,Sen sadece okula gitmeye odaklan.
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_ThirdMemoryA_010,Hinako! Shu's on the phone!,Hinako! Shu telefonda!
-D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_ThirdMemoryC_010,"Hinako! I know you're in there, say something! ","Hinako! Orada olduğunu biliyorum, bir şeyler söyle!"
+D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_ThirdMemoryC_010,"Hinako! I know you're in there, say something! ","Hinako! Orada olduğunu biliyorum, bişey söyle!"
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryA_120,Hinako! ,Hinako!
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_FirstMemoryA_090,"Hinako, stop. Please don't talk back to your father.","Hinako, dur. Lütfen babana karşılık verme."
 D_Ch10_SMZ_StringTable/Str_Ch10_SMZ_VO_SecondMemoryA_120,"Hinako, I'm sorry,
@@ -1251,7 +1251,7 @@ A Fox watches over them in the light of his lantern.
 Nobody knows when, or even if, the eggs will hatch. Not even the chicks themselves.","İki civciv kabuklarının içinde birbirlerine güveniyor.
 Bir Tilki, fenerinin ışığında onları gözetliyor.
 
-Kimse yumurtaların ne zaman, hatta çatlayıp çatlamayacağını bilmiyor. Civcivlerin kendileri bile."
+Kimse yumurtaların ne zaman çatlayacağını, hatta çatlayıp çatlamayacağını bile bilmiyor. Civcivlerin kendileri bile."
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndBComment_040,I will become a pupa...,Bir tırtıl kozası olacağım...
 D_Ch11_THS_StringTable/Str_Ch11_THS_EnvInfo_PuzzleTip_010,"Prove your intent with the crests three.
 Show what lies deep within your heart.
@@ -1260,16 +1260,16 @@ Let the line of foxes guide you.
 Offer the crests and lay bare your soul.","Niyetini üç arma ile kanıtla.
 Kalbinin derinliklerinde yatanı göster.
 
-Tilki hattının sana yol göstermesine izin ver.
+Tilkilerin sana yol göstermesine izin ver.
 Armaları sun ve ruhunu açığa çıkar."
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndCComment_030,"Sakuko... Rinko... Shu... 
 None of them are fools.","Sakuko... Rinko... Shu... 
 Hiçbiri aptal değil."
 D_Ch11_THS_StringTable/Str_Ch11_THS_VO_GoneFox_010,The banquet... Has it come to a close...?,Ziyafet... Sona mı erdi...?
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndDComment_020,Gratitude isn't something you demand...,Minnettarlık talep edebileceğin bir şey değildir...
-D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndCComment_010,Ebisugaoka... My...town...,Ebisugaoka... Benim...şehrim...
+D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndCComment_010,Ebisugaoka... My...town...,Ebisugaoka... Benim...kasabam...
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndBComment_010,I...am not afraid...,Ben... korkmuyorum...
-D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndDComment_010,O-Our clan...?,K-Klanımız mı...?
+D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndDComment_010,O-Our clan...?,K-Klanımız...?
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndCComment_060,Why...am I here...? Urgh...,Neden...buradayım...? Öf...
 D_Ch11_THS_StringTable/Str_Ch11_THS_VO_GoneFox_020,"Everyone must be…
 wishing for the festivities to last some more.","Herkes…
@@ -1283,16 +1283,16 @@ D_Ch11_THS_StringTable/Str_Ch11_THS_VO_EndAComment_020,I'll sever the ties... My
 D_Ch11_THS_StringTable/Str_Ch11_THS_VO_EndAComment_010,I will cleanse it all...the filth of this world...,Hepsini temizleyeceğim... bu dünyanın pisliğini...
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndCComment_040,"Whether or not I feel joy...
 should be up to me...","Sevinç duyup duymamam...
-bana kalmalı..."
+Bana bağlı olmalı..."
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndDComment_050,Am I just soil in which you can sow your oats? Don't...be ridiculous...,Ben sadece yulafınızı ektiğiniz toprak mıyım? Saçmalama...
 D_Ch11_THS_StringTable/Str_Ch11_THS_VO_EndAComment_060,"I offer all of me... 
 I belong to... I am his...","Kendimi tamamen sunuyorum... 
-Aitim... Ben onunum..."
-D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndBComment_030,Yes... Here...it all begins...,Evet... Burada...her şey başlıyor...
+Ben ona aitim... Ben onunum..."
+D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndBComment_030,Yes... Here...it all begins...,Evet... İşte...her şey burada başlıyor...
 D_Ch11_THS_StringTable/Str_Ch11_THS_VO_EndAComment_050,Yes... I will be reborn...,Evet... Yeniden doğacağım...
 D_Ch11_THS_StringTable/Str_Ch11_THS_VO_EndAComment_040,"Yes... I will die. 
 Shimizu Hinako will cease to exist...","Evet... Öleceğim. 
-Shimizu Hinako var olmaktan çıkacak..."
+Shimizu Hinako artık var olmayacak..."
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndBComment_050,Yes... I will become a cocoon…,Evet... Bir kozaya dönüşeceğim…
 D_Ch11_THS_StringTable/Str_CH11_THS_VO_EndCComment_050,"The name Shimizu... The name Hinako... 
 There is nothing wrong about them...","Shimizu ismi... Hinako ismi... 
@@ -1319,19 +1319,19 @@ The Fox brings along his followers in triumph.
 He notices not the two birds in conflict.","Kara Kuş, Beyaz Kuşu almak ister.
 Beyaz Kuş direnmek ister.
 
-Tilki, takipçilerini zaferle getiriyor.
-Çatışan iki kuşu fark etmiyor."
+Tilki, zaferle takipçilerini de beraberinde getirir.
+Çatışan iki kuşu fark etmez."
 D_Ch11_THS_StringTable/Str_Ch11_THS_EnvInfo_EndBPuzzleTip_010,"The Black Bird is in the cage at last.
 The satisfied Fox spreads his fan.
 
 The White Bird remains in a daze.
-All had been swept away as she slept.","Kara Kuş nihayet kafeste.
-Memnun Tilki yelpazesini açar.
+All had been swept away as she slept.","Kara Kuş sonunda kafese girdi.
+Memnun olan Tilki yelpazesini açtı.
 
-Beyaz Kuş sersemlemiş halde kalır.
+Beyaz Kuş şaşkınlık içinde kaldı.
 O uyurken her şey silinip gitmişti."
 D_Ch11_THS_StringTable/Str_Ch11_THS_Thoughts_PuzzleDoor_030,(I see some notches... Does something go in them?),(Bazı çentikler görüyorum... İçlerine bir şey mi girmeli?)
-D_Ch11_THS_StringTable/Str_Ch11_THS_Thoughts_PuzzleDoor_020,(No good... Are these the right spots?),(İşe yaramadı... Doğru yerler mi bunlar?)
+D_Ch11_THS_StringTable/Str_Ch11_THS_Thoughts_PuzzleDoor_020,(No good... Are these the right spots?),(İşe yaramadı... Doğru yerler bunlar mı?)
 D_Ch11_THS_StringTable/Str_Ch11_THS_Thoughts_PaperLockedDoor_010,(It's sealed with a talisman...),(Bir tılsımla mühürlenmiş...)
 D_Ch11_THS_StringTable/Str_Ch11_THS_Thoughts_PuzzleDoor_010,(More emblems...),(Daha fazla amblem...)
 D_Ch11_THS_StringTable/Str_Ch11_THS_Thoughts_PaperLockedDoor_020,(How do I break this seal...?),(Bu mührü nasıl kırarım...?) 
@@ -1344,11 +1344,11 @@ D_Ch12_HLS_StringTable/Str_Ch12_HLS_VO_EndingDFirstBattleOver_010,It went down t
 D_Ch12_HLS_StringTable/Str_Ch12_HLS_VO_EndingDSecondMeet_010,It's heading for town? Why would it do that?,Kasabaya doğru mu gidiyor? Neden öyle yapsın ki?
 D_Ch12_HLS_StringTable/Str_Ch12_HLS_VO_EndingDFirstMeet_010,Why are you running? Where are you going?,Neden koşuyorsun? Nereye gidiyorsun?
 D_Ch12_HLS_StringTable/Str_Ch12_HLS_VO_FirstMeet_020,"I won't let you get away with this!
-Never! NEVER!","Bununla yanına kâr kalmayacak!
+Never! NEVER!","Bunu yanına bırakmayacağım!
 Asla! ASLA!"
 D_Ch12_HLS_StringTable/Str_Ch12_HLS_VO_SecondMeet_020,I'll slaughter you!,Seni katledeceğim!
 D_Ch12_HLS_StringTable/Str_Ch12_HLS_VO_EndingDGoingDown_010,"You've destroyed my world... 
-Are you not satisfied?","Benim dünyamı yok ettin... 
+Are you not satisfied?","Dünyamı yok ettin... 
 Tatmin olmadın mı?"
 D_Ch12_HLS_StringTable/Str_Ch12_HLS_VO_EndingDGoingDown2_010,"Who's behind this?! 
 I'm going to make them suffer!","Bunun arkasında kim var?! 
@@ -1359,7 +1359,7 @@ I want everything standing in my way DEAD!","Öl!
 D_Ch12_HLS_StringTable/Str_Ch12_HLS_VO_GoingDown2_010,"Give it back!
 Give back everything you taken from me!","Geri ver!
 Benden aldığın her şeyi geri ver!"
-D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_SeeLeaflet_010,...I won't end up like this... Ever!,...Böyle sona ermeyeceğim... Asla!
+D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_SeeLeaflet_010,...I won't end up like this... Ever!,...Sonum böyle olmayacak... Asla!
 D_Ch12_OLD_StringTable/Str_Ch12_OLD_EnvInfo_MessageA_010,"Name:
 Shimizu Hinako
 
@@ -1377,12 +1377,12 @@ Kaybolma Detayları:
 Evden ayrıldı... ile buluştu... üzerinde bir..."
 D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_EDDSeeLeaflet_010,It's no use. You can't mess with my head.,Faydası yok. Kafamı karıştıramazsın.
 D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_ThirdMeet_010,Fight! It's either you or me!,Dövüş! Ya sen ya da ben!
-D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_InTown_010,No! NO! Leave my town alone!,Hayır! HAYIR! Şehrimi rahat bırak!
+D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_InTown_010,No! NO! Leave my town alone!,Hayır! HAYIR! Kasabamı rahat bırak!
 D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_CatchUp_010,Stop! Come back here and face me!,Dur! Geri gel ve benimle yüzleş!
 D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_EDDThirdMeet_010,Now I get it... That's where it all started!,Şimdi anlıyorum... Her şeyin başladığı yer orası!
 D_Ch12_OLD_StringTable/Str_Ch12_OLD_VO_EDDInTown_010,The corruption's spreading. I have to hurry!,Bozulma yayılıyor. Acele etmeliyim!
 D_CH13_WED_StringTable/Str_Ch13_WED_VO_Selftalk_020,Child of the mortal world. You are most fortunate. Heh heh heh...,Ölümlü dünyanın çocuğu. Çok şanslısın. Heh heh heh...
-D_CH13_WED_StringTable/Str_Ch13_WED_VO_FoxTalking_B,Oh my... She truly is a vision...,Aman Tanrım... Gerçekten de bir görüntü...
+D_CH13_WED_StringTable/Str_Ch13_WED_VO_FoxTalking_B,Oh my... She truly is a vision...,Aman Tanrım... O gerçekten de bir görüntü...
 D_CH13_WED_StringTable/Str_Ch13_WED_VO_Selftalk_030,Such a feeble bride...,Ne kadar da zayıf bir gelin...
 D_CH13_WED_StringTable/Str_Ch13_WED_VO_Selftalk_040,You are ill-fit for this clan.,Bu klan için uygun değilsin.
 D_CH13_WED_StringTable/Str_Ch13_WED_VO_Selftalk_010,Welcome. May you find peace in the days ahead...,Hoş geldin. Umarım önümüzdeki günlerde huzur bulursun...
@@ -1393,13 +1393,13 @@ D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_EDADollTalk3_010,You won't be able to sta
 D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_EDADollTalk2_010,You won't be able to see your father or mother anymore.,Artık anneni veya babanı göremeyeceksin.
 D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_EDBDollTalk2_010,You're being manipulated. Come back to your senses.,Manipüle ediliyorsun. Kendine gel.
 D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_EDCDollTalk2_010,You still resist? How pointless.,Hâlâ direniyor musun? Ne kadar da anlamsız.
-D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_KillDoll3_010,Almost there... Almost...home...,Neredeyse vardık... Neredeyse...evde...
+D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_KillDoll3_010,Almost there... Almost...home...,Neredeyse vard... Neredeyse...ev...
 D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_KillDoll2_010,Time...to go home.,Vakit...eve gitme vakti.
 D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_GoingUp_010,"The world is celebrating me... 
 I should go see my parents.","Dünya beni kutluyor... 
 Gidip anne babamı görmeliyim."
 D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_EDCDollTalk3_010,Shimizu Hinako shall live. You shall die.,Shimizu Hinako yaşayacak. Sen öleceksin.
-D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_EDBDollTalk3_010,There's no coming back.,Geri dönüşü yok.
+D_Ch14_HLS_StringTable/Str_Ch14_HLS_VO_EDBDollTalk3_010,There's no coming back.,Geri dönüş yok.
 D_Ch14_OLD_StringTable/Str_Ch14_OLD_VO_EDADollTalk_010,Don't go that way.,O tarafa gitme.
 D_Ch14_OLD_StringTable/Str_Ch14_OLD_VO_KillDoll1_010,Do not...get in my way...,Sakın... yoluma çıkma...
 D_Ch14_OLD_StringTable/Str_Ch14_OLD_VO_EDBDollTalk_010,Don't believe the foxes.,Tilkilere inanma.
@@ -1418,7 +1418,7 @@ D_Ch15_OCR_StringTable/Str_Ch15_OCR_VO_EDCCorridor_010,"Sorry, but I've made up 
 D_Ch15_OCR_StringTable/Str_Ch15_OCR_VO_EDACorridor_020,"Fine... I'll keep doing this... 
 I'll paint this place red with your blood!","Güzel... Bunu yapmaya devam edeceğim... 
 Burası sizin kanınızla kıpkırmızı olacak!"
-D_Ch15_OCR_StringTable/Str_Ch15_OCR_VO_BattleReady_010,Stay out of my way!,Çekil önümden!
+D_Ch15_OCR_StringTable/Str_Ch15_OCR_VO_BattleReady_010,Stay out of my way!,Çekil yolumdan!
 D_Ch15_OCR_StringTable/Str_Ch15_OCR_VO_EDCCorridor_020,I won't...be stopped.,Durdurulmayacağım...
 D_Ch15_OCR_StringTable/Str_Ch15_OCR_VO_Determined_010,"Let's do this, Shimizu Hinako.","Hadi yapalım şunu, Shimizu Hinako."
 D_Ch15_OCR_StringTable/Str_Ch15_OCR_VO_NoTurningBack_010,This is it. No turning back now.,İşte bu. Artık geri dönüş yok.
@@ -1433,15 +1433,15 @@ D_Ch15_TOR_StringTable/Str_Ch15_TOR_VO_EDADoll_020,"Now you...
 You'll help me destroy it all, won't you? ","Şimdi sen...
 Her şeyi yok etmeme yardım edeceksin, değil mi?"
 D_Ch15_TOR_StringTable/Str_Ch15_TOR_VO_EDCTorii_010,These twisted shimenawa are so disturbing...,Bu karmaşık shimenawa'lar çok rahatsız edici...
-D_Ch15_TOR_StringTable/Str_Ch15_TOR_VO_EDDTorii_010,The shimenawa are twisted...just like me...,Shimenawa halatları dolanmış...tıpkı benim gibi...
+D_Ch15_TOR_StringTable/Str_Ch15_TOR_VO_EDDTorii_010,The shimenawa are twisted...just like me...,Shimenawa’lar dolanmış...tıpkı benim gibi...
 D_Ch15_TOR_StringTable/Str_Ch15_TOR_VO_EDDTorii_020,I need to keep moving. I can't stop now.,İlerlemeye devam etmeliyim. Şimdi duramam.
 D_Ch15_TOR_StringTable/Str_Ch15_TOR_VO_EDATorii_010,"The road twists and turns... 
 It's like I'm walking through my head.","Yol kıvrılıyor ve dönüyor... 
 Sanki kendi zihnimin içinde yürüyormuşum gibi."
 D_Ch15_TOR_StringTable/Str_Ch15_TOR_VO_EDBDoll_010,Thank you for all your help in the past...,Geçmişte bana yaptığınız tüm yardımlar için teşekkür ederim...
 D_Ch15_TOR_StringTable/Str_Ch15_TOR_VO_EDBTorii_010,Where... Where am I being led...?,Nereye... Nereye götürülüyorum...?
-D_Ch15_TOR_StringTable/Str_Ch15_TOR_Thought_NoTurningBack_010,(No point in turning back now.),(Artık geri dönmenin anlamı yok.)
-D_Ch16A_ALW_StringTable/Str_Ch16A_ALW_VO_EnemyCallA_030,Shut up! Out of my way!,Kapa çeneni! Çekil önümden!
+D_Ch15_TOR_StringTable/Str_Ch15_TOR_Thought_NoTurningBack_010,(No point in turning back now.),(Artık geri dönmenin bir anlamı yok.)
+D_Ch16A_ALW_StringTable/Str_Ch16A_ALW_VO_EnemyCallA_030,Shut up! Out of my way!,Kapa çeneni! Çekil yolumdan!
 D_Ch16A_ALW_StringTable/Str_Ch16A_ALW_VO_EnemyCallA_010,What the hell are you doing?!,Ne yapıyorsun sen?!
 D_Ch16A_ALW_StringTable/Str_Ch16A_ALW_VO_EnemyCallA_020,Hey! Are you insane?!,Hey! Sen aklını mı kaçırdın?!
 D_Ch16A_ALW_StringTable/Str_Ch16A_ALW_VO_EnemyCallB_010,"Wait, what is going on?","Bekle, neler oluyor?"
@@ -1449,13 +1449,13 @@ D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_EnemyCallB_010,You're taking this too f
 D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_KotoCallC_010,"I thought I showed you...
 I understand you. I care for you...","Sana gösterdiğimi sanmıştım...
 Seni anlıyorum. Seni önemsiyorum..."
-D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_HinakoYellA_020,Leave me... Leave US...the hell ALOOONE!,Beni bırak... BİZİ bırak... cehennemin dibine kadar YALNIZ!
+D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_HinakoYellA_020,Leave me... Leave US...the hell ALOOONE!,Beni bırak... BİZİ bırak...lanet olası RAHAT bırak!
 D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_HinakoYellA_010,You'll regret getting in my way!,Yoluma çıktığına pişman olacaksın!
 D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_KotoCallA_010,"Wait... Everyone, just hold on... 
 I'll speak to Hinako.","Bekleyin... Herkes, sadece bekleyin... 
 Hinako ile konuşacağım."
-D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_EnemyCallA_010,What are you talking about?! Are you crazy?!,Neden bahsediyorsun?! Sen deli misin?!
-D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_EnemyCallB_020,Shut up! SHUT THE HELL UP!,Kapa çeneni! KES ŞUNU CEHENNEME KADAR!
+D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_EnemyCallA_010,What are you talking about?! Are you crazy?!,Neden bahsediyorsun sen?! Deli misin?!
+D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_EnemyCallB_020,Shut up! SHUT THE HELL UP!,Kapa çeneni! LANET ÇENENİ KAPAT!
 D_Ch16A_UDG_StringTable/Str_Ch16A_UGD_VO_KotoCallB_010,"Hinako, why...? Why are you doing this?","Hinako, neden...? Bunu neden yapıyorsun?"
 D_Ch16A_WHL_StringTable/Str_Ch16A_WHL_VO_HinakoB_010,Just need to hold out a bit longer...,Sadece biraz daha dayanmam gerek...
 D_CommonThoughts_StringTable/Str_Common_Thoughts_DoorLocked_D,(...I need a key.),(...Bir anahtara ihtiyacım var.)
@@ -1474,7 +1474,7 @@ D_CommonThoughts_StringTable/Str_Common_Thoughts_LockedPinDoor_010,(Oinari-sama'
 D_CommonThoughts_StringTable/Str_Common_Thoughts_RummageEmpty_C,(Nothing here.),(Burada hiçbir şey yok.)
 D_CommonThoughts_StringTable/Str_Common_Thoughts_SealedPinBox_010,(This box has some sort of seal on it...),(Bu kutunun üzerinde bir tür mühür var...)
 D_CommonThoughts_StringTable/Str_Common_Thoughts_DoorBlocked_A,(It's stuck.),(Takılı kaldı.)
-D_CommonThoughts_StringTable/Str_Common_Thoughts_DoorBlocked_C,(Can't open it.),(Açılamıyor.)
+D_CommonThoughts_StringTable/Str_Common_Thoughts_DoorBlocked_C,(Can't open it.),(Açılmıyor.)
 D_CS_StringTable/Str_SC1004_L1_0100_Hina,"Then what about the times
 he yelled and threw things across the room?","Peki ya bağırdığı ve odanın
 içinde eşyaları fırlattığı zamanlar?"
@@ -1493,40 +1493,40 @@ izin verebileceğini söyleme."
 D_CS_StringTable/Str_SC1102_L1_0110_Junko,I see.,Anlıyorum.
 D_CS_StringTable/Str_SC0501_L1_0220_Hina,Leave the back to me...,Arkayı bana bırak...
 D_CS_StringTable/Str_SC0702_L1_0020_Hina,"The plan's to meet up... at your place,
-right...?","Plan, buluşmak... senin evinde,
+right...?","Plan, senin evinde buluşmak...
 değil mi...?"
 D_CS_StringTable/Str_SC0203_L1_0100_Hina,I think.,Sanırım.
 D_CS_StringTable/Str_LQ1603_L1_0370_Shuu,"I think I'm more scared of girls
 than aliens at this point...","Sanırım bu noktada uzaylılardan çok kızlardan
 korkuyorum..."
-D_CS_StringTable/Str_SC1611_L1_0160_Radio,......Geysers have......,......Gayzerler var......
+D_CS_StringTable/Str_SC1611_L1_0160_Radio,......Geysers have......,......Gayzerler......
 D_CS_StringTable/Str_SC1611_L1_0180_Radio,......the accompanying hydrogen sulfide gas continue to increase......,......eşlik eden hidrojen sülfür gazı artmaya devam ediyor......
-D_CS_StringTable/Str_SC1611_L1_0170_Radio,......and over the past three weeks have shown......,......ve son üç haftadır gösteriyorlar......
+D_CS_StringTable/Str_SC1611_L1_0170_Radio,......and over the past three weeks have shown......,......ve son üç haftadır görüldüğü gibi......
 D_CS_StringTable/Str_SC1611_L1_0120_Hina,Thank you...partner.,Teşekkürler... ortak.
 D_CS_StringTable/Str_SC0501_L1_0120_Hina,Let's go. There's no time to waste.,Hadi gidelim. Kaybedecek zaman yok.
 D_CS_StringTable/Str_SC0802_L1_0060_Koto,Does it still hurt?,Hâlâ acıyor mu?
 D_CS_StringTable/Str_SC0106_L2_0010_Shuu,Hinako!,Hinako!
 D_CS_StringTable/Str_SC0405_L1_0060_Doll,"""Don’t trust the Fox Mask.""","""Tilki Maskesi'ne güvenme."""
-D_CS_StringTable/Str_SC0303_L1_0490_Doll,"""Beware Rinko""","""Rinko'dan sakının"""
-D_CS_StringTable/Str_SC0805_L1_0180_Doll,"""Remember! Your name is Shimizu Hinako!""","""Unutma! Adın Shimizu Hinako!"""
+D_CS_StringTable/Str_SC0303_L1_0490_Doll,"""Beware Rinko""","""Rinko'ya Dikkat"""
+D_CS_StringTable/Str_SC0805_L1_0180_Doll,"""Remember! Your name is Shimizu Hinako!""","""Hatırla! Adın Shimizu Hinako!"""
 D_CS_StringTable/Str_SC0801_L1_0090_Doll,"""Run! Hurry! There’s no going back!""","""Koş! Acele et! Geri dönüş yok!"""
 D_CS_StringTable/Str_SC1501_L1_0010_Doll,"""Help Shimizu Hinako, please.""","""Lütfen Shimizu Hinako'ya yardım et."""
-D_CS_StringTable/Str_SC1504_L1_0111_Junko,It's far too late...,Çok geç artık...
+D_CS_StringTable/Str_SC1504_L1_0111_Junko,It's far too late...,Artık çok geç...
 D_CS_StringTable/Str_SC1202_L1_0120_Junko,This is for your own good.,Bu senin iyiliğin için.
 D_CS_StringTable/Str_SC1006_L1_0270_Kanta,Prepare to witness...,Tanık olmaya hazırlanın...
 D_CS_StringTable/Str_SC1005_L1_0590_Kanta,I'm so... so sorry!,Çok... çok üzgünüm!
 D_CS_StringTable/Str_SC1004_L1_0430_Kimie,Not only that...,Sadece bu da değil...
 D_CS_StringTable/Str_SC1006_L1_0230_NpcMan,"Do it, Kanta! You're the best!",Yap Kanta! Sen en iyisisin!
 D_CS_StringTable/Str_SC0802_L1_0100_Hina,the next one...,bir sonraki...
-D_CS_StringTable/Str_LQ1603_L1_0290_Sakuko,"Your turn, Rinko!","Sıra sende, Rinko!"
+D_CS_StringTable/Str_LQ1603_L1_0290_Sakuko,"Your turn, Rinko!","Senin sıran, Rinko!"
 D_CS_StringTable/Str_SC0901_L1_0340_Junko,And...,Ve...
 D_CS_StringTable/Str_SC1002_L1_0200_HinaPast,No...,Hayır...
 D_CS_StringTable/Str_SC1605_L1_0450_HinaFox,No...,Hayır...
 D_CS_StringTable/Str_SC0802_L1_0070_Hina,No...it just...,Hayır... sadece...
 D_CS_StringTable/Str_SC1504_L1_0050_Hina,I have the RIGHT to exist!,Var olma HAKKIM var!
 D_CS_StringTable/Str_SC0502_L1_0100_Rinko,"Hinako just tagged along behind us,
-so she's just fine!","Hinako sadece arkamızda takıldı,
-bu yüzden o iyi durumda!"
+so she's just fine!","Hinako sadece arkamızdan geldi,
+yani o gayet iyi!"
 D_CS_StringTable/Str_SC1006_L2_0342_Hina,My parents? Don't you touch them!,Annemle babam mı? Onlara dokunmaya kalkma!
 D_CS_StringTable/Str_SC1612_L1_0280_HinaFox,"What he's suffered... you will never understand.
 You monster!","Onun ne çektiğini... asla anlamayacaksın.
@@ -1534,15 +1534,15 @@ Seni canavar!"
 D_CS_StringTable/Str_LQ1601_L1_0060_Hina,Don't laugh!,Gülme!
 D_CS_StringTable/Str_SC1612_L1_0260_HinaFox,Don't laugh!,Gülme!
 D_CS_StringTable/Str_SC1605_L1_0510_Shuu,And what's worse is...,Ve daha da kötüsü...
-D_CS_StringTable/Str_SC1001_L1_0310_HinaPast,Running and running...,Koşuyor ve koşuyorsun...
+D_CS_StringTable/Str_SC1001_L1_0310_HinaPast,Running and running...,Koşmak ve koşmak...
 D_CS_StringTable/Str_SC0303_L1_0330_Shuu,"What do you mean, there's no way out?","Ne demek istiyorsun, çıkış yolu yok mu?"
 D_CS_StringTable/Str_SC0102_L1_0010_Hina,Excuse me...,Afedersiniz...
 D_CS_StringTable/Str_SC1001_L1_0450_Hina,"You're wrong!
 He's my friend, he's special, my one and only partner!","Yanılıyorsun!
 O benim arkadaşım, o özel, benim biricik ortağım!"
 D_CS_StringTable/Str_SC1001_L1_0340_HinaPast,"Oh, and it's not going to end with you!
-I'm going to kill mom and dad too!","Ah, seninle de bitmeyecek!
-Anneyle babayı da öldüreceğim!"
+I'm going to kill mom and dad too!","Oh, ve bu seninle bitmeyecek!
+Annemle babamı da öldüreceğim!"
 D_CS_StringTable/Str_LQ0205_L1_0050_Hina,No...,Hayır...
 D_CS_StringTable/Str_SC0504_L1_0010_Rinko,Hey.,Hey.
 D_CS_StringTable/Str_SC1607_L1_0020_Koto,It is cold out.,Dışarısı soğuk.
@@ -1561,7 +1561,7 @@ Everything's changed...","Koridorlar... kapılar...
 Her şey değişmiş..."
 D_CS_StringTable/Str_SC0804_L1_0030_Hina,N-no... I can't...,H-hayır... Yapamıyorum...
 D_CS_StringTable/Str_SC0405_L1_0030_Hina,No...,Hayır...
-D_CS_StringTable/Str_SC1603_L1_0010_Hina,Get out...of our way...,Çekilin... yolumuzdan...
+D_CS_StringTable/Str_SC1603_L1_0010_Hina,Get out...of our way...,Yolumuzdan... çekilin...
 D_CS_StringTable/Str_SC0105_L1_0030_Hina,STOP!,DUR!
 D_CS_StringTable/Str_SC0602_L1_0030_Sakuko,I don't want to be alone!,Yalnız kalmak istemiyorum!
 D_CS_StringTable/Str_SC1002_L1_0640_HinaPast,Don't stop thinking about this!,Bunu düşünmeyi bırakma!
@@ -1573,8 +1573,8 @@ D_CS_StringTable/Str_SC0603_L1_0101_Rinko,NOOOOOO!,HAYIIIIIR!
 D_CS_StringTable/Str_LQ0105_L1_0020_Rinko,"No!
 Help! Shu! Hinako!","Hayır!
 İmdat! Shu! Hinako!"
-D_CS_StringTable/Str_SC1603_L1_0020_Hina,GET OUT OF OUR WAAAAAYYY!,ÇEKİLİN ÖNÜMÜZDEEEEEN!
-D_CS_StringTable/Str_SC1002_L1_0650_HinaPast,Don't ever let other people,Sakın diğer insanların olmasına izin verme
+D_CS_StringTable/Str_SC1603_L1_0020_Hina,GET OUT OF OUR WAAAAAYYY!,ÇEKİLİN YOLUMUZDAAAAAN!
+D_CS_StringTable/Str_SC1002_L1_0650_HinaPast,Don't ever let other people,Başkalarının asla
 D_CS_StringTable/Str_SC0105_L1_0020_Hina,Stop it!,Kes şunu!
 D_CS_StringTable/Str_SC0603_L1_0100_Rinko,NOOO!,HAYIRRR!
 D_CS_StringTable/Str_SC1102_L2_0140_Junko,I will not stand for this childishness.,Bu çocukça davranışa tahammül etmeyeceğim.
@@ -1595,7 +1595,7 @@ he would always apologize after he calmed down.","Ama yine de...
 sakinleştikten sonra her zaman özür dilerdi."
 D_CS_StringTable/Str_SC0304_L1_0210_Shuu,This fog is so thick...,Bu sis çok yoğun...
 D_CS_StringTable/Str_SC1605_L1_0100_HinaFox,But... everything you're feeling right now...,Ama... şu anda hissettiğin her şey...
-D_CS_StringTable/Str_LQ1602_L1_0050_Hina,We don't need your meddling!,Burnumuza sokmana gerek yok!
+D_CS_StringTable/Str_LQ1602_L1_0050_Hina,We don't need your meddling!,Burnunu sokmana ihtiyacımız yok!
 D_CS_StringTable/Str_SC0901_L1_0270_Junko,It doesn't matter what anyone else says;,Başkasının ne dediği önemli değil;
 D_CS_StringTable/Str_SC1608_L1_0060_HinaFox,"No, it's not. This is my choice.","Hayır, değil. Bu benim seçimim."
 D_CS_StringTable/Str_SC0503_L1_0050_Junko,Friends don't last forever.,Dostluklar sonsuza dek sürmez.
@@ -1611,8 +1611,8 @@ was actually an alien?!","Dur bir dakika, o şeyin öldürdüğü Sakuko...
 aslında bir uzaylı mıydı?!"
 D_CS_StringTable/Str_SC0301_L1_0050_Shuu,"Well,","Pekala,"
 D_CS_StringTable/Str_SC0301_L1_0090_Shuu,where's Sakuko?,Sakuko nerede?
-D_CS_StringTable/Str_SC1005_L1_0421_Hina,And maybe he doesn't deserve a clean slate.,Ve belki de temiz bir sayfa hak etmiyor.
-D_CS_StringTable/Str_SC1005_L1_0420_Hina,I know you can't forget what he did.,"Biliyorum, onun ne yaptığını unutamazsın."
+D_CS_StringTable/Str_SC1005_L1_0421_Hina,And maybe he doesn't deserve a clean slate.,Ve belki de temiz bir sayfa hak etmiyodur.
+D_CS_StringTable/Str_SC1005_L1_0420_Hina,I know you can't forget what he did.,Onun yaptıklarını unutamayacağını biliyorum.
 D_CS_StringTable/Str_SC1606_L1_0140_Koto,Perhaps we could become friends.,Belki arkadaş olabiliriz.
 D_CS_StringTable/Str_SC1002_L1_0111_HinaPast,Then I might be reborn,O zaman yeniden doğabilirim
 D_CS_StringTable/Str_SC1001_L1_0170_HinaPast,"I might not have Shimizu Hinako's
@@ -1721,10 +1721,10 @@ D_CS_StringTable/Str_SC1004_L1_0360_Kimie,"but when you're not around,
 he's a whole different man.","ama sen yokken,
 tamamen farklı bir adam oluyor."
 D_CS_StringTable/Str_SC1504_L1_0080_Junko,But you can do this. You can overcome this.,Ama bunu yapabilirsin. Bunun üstesinden gelebilirsin.
-D_CS_StringTable/Str_LQ0903_L1_0020_Hina,I appreciate the sentiment...,Duyguyu takdir ediyorum...
+D_CS_StringTable/Str_LQ0903_L1_0020_Hina,I appreciate the sentiment...,Bu duyguyu takdir ediyorum...
 D_CS_StringTable/Str_SC1001_L1_0250_HinaPast,But I didn't! Any idea why?!,Ama yapmadım! Neden olduğunu tahmin et?!
 D_CS_StringTable/Str_SC0806_L1_0030_Hina,But I'm very happy...,Ama çok mutluyum...
-D_CS_StringTable/Str_SC1005_L1_0300_Hina,"But still! Like it or not, he's family!","Ama yine de! İster beğen, ister beğenme, o aileden!"
+D_CS_StringTable/Str_SC1005_L1_0300_Hina,"But still! Like it or not, he's family!","Ama yine de! İster beğen, ister beğenme, o aileden biri!"
 D_CS_StringTable/Str_SC1005_L1_0422_Hina,But please...,Ama lütfen...
 D_CS_StringTable/Str_SC1002_L1_0620_HinaPast,"But... running, succumbing to fear,
 it's not a decision!","Ama... kaçmak, korkuya yenik düşmek,
@@ -1738,11 +1738,11 @@ Sadece şımartılıp mutlu edilmesi gereken bir evcil hayvan değilim."
 D_CS_StringTable/Str_SC1605_L1_0290_Shuu,But why do you trust this nobody...?,Ama neden bu hiç kimseye güveniyorsun...?
 D_CS_StringTable/Str_SC1005_L1_0620_Hina,But at least I finally...,Ama en azından sonunda...
 D_CS_StringTable/Str_SC1003_L1_0080_HinaPast,but is that really it?,Ama gerçekten bu mu?
-D_CS_StringTable/Str_SC0505_L1_0100_Shuu,but we can avoid town.,ama şehirden kaçınabiliriz.
+D_CS_StringTable/Str_SC0505_L1_0100_Shuu,but we can avoid town.,ama kasabadan uzak durabiliriz.
 D_CS_StringTable/Str_SC1005_L1_0530_Kanta,"But no...
 how I feel about any of it is beside the point.","Ama hayır...
-Bunun hakkında ne hissettiğim önemli değil."
-D_CS_StringTable/Str_SC1502_L1_0130_Junko,Stop that right now!,Hemen şimdi dur!
+Bunların hiçbiri hakkında ne hissettiğim önemli değil."
+D_CS_StringTable/Str_SC1502_L1_0130_Junko,Stop that right now!,Derhal buna bi son ver!
 D_CS_StringTable/Str_SC1612_L1_0070_HinaFox,You puny and insignificant wretch.,Sefil ve önemsiz yaratık seni.
 D_CS_StringTable/Str_SC1610_L1_0081_Shuu,"you're one of us, then--our comrade in arms!",o zaman bizdensin--silah arkadaşımızsın!
 D_CS_StringTable/Str_SC1102_L1_0040_Junko,May I?,Müsaadenizle?
@@ -1767,7 +1767,7 @@ D_CS_StringTable/Str_SC1005_L1_0070_HinaPast,Huh!?,Ha?!
 D_CS_StringTable/Str_SC1201_L2_0010_Hina,"Just stop, please!","Lütfen dur, lütfen!"
 D_CS_StringTable/Str_SC1610_L1_0020_Hina,"In spite of everything,","Her şeye rağmen,"
 D_CS_StringTable/Str_SC1609_L1_0050_Koto,How have you entered these sacred grounds?!,Bu kutsal topraklara nasıl girdin?!
-D_CS_StringTable/Str_SC1605_L1_0530_HinaFox,What about them?,Onlar hakkında ne var?
+D_CS_StringTable/Str_SC1605_L1_0530_HinaFox,What about them?,Peki ya onlar?
 D_CS_StringTable/Str_SC0103_L1_0080_Hina,"If you don't have anything,
 neither do I.","Eğer senin bir şeyin yoksa,
 benim de yok."
@@ -1778,10 +1778,10 @@ D_CS_StringTable/Str_SC1605_L1_0320_HinaFox,"You always say you want things
 to stay as they are...","Her şeyin olduğu gibi
 kalmasını istediğini söylüyorsun hep..."
 D_CS_StringTable/Str_SC0302_L1_0030_Hina,Everything that's happening to us...,Başımıza gelen her şey...
-D_CS_StringTable/Str_SC0303_L1_0240_Rinko,Out of town?,Şehrin dışına mı?
+D_CS_StringTable/Str_SC0303_L1_0240_Rinko,Out of town?,Kasabanın dışına mı?
 D_CS_StringTable/Str_SC1612_L1_0150_Koto,"to go and seek out that extraordinary girl
 and make her his wife.","gidip o olağanüstü kızı bulmak
-ve onu eş olarak almak."
+ve onu karısı yapmak."
 D_CS_StringTable/Str_SC1001_L1_0290_HinaPast, a fight to the death as equals!,eşitler arasında ölümüne bir dövüş!
 D_CS_StringTable/Str_SC1002_L1_0651_HinaPast,decide what happiness is for you!,senin için mutluluğun ne olduğuna karar ver!
 D_CS_StringTable/Str_SC0405_L1_0010_Koto,"Now, you as well.","Şimdi, sen de."
@@ -1789,20 +1789,20 @@ D_CS_StringTable/Str_SC1613_L1_0030_Koto,Over there! Hurry!,Şurada! Acele edin!
 D_CS_StringTable/Str_SC0601_L1_0130_Koto,"Now, onward we go.","Şimdi, ileriye doğru gidiyoruz."
 D_CS_StringTable/Str_SC0804_L1_0140_Koto,So. Let's go.,Peki. Hadi gidelim.
 D_CS_StringTable/Str_SC1103_L1_0020_Koto,"Now, you as well.","Şimdi, sen de."
-D_CS_StringTable/Str_SC0103_L1_0030_Hina,Shu...,Şşş...
-D_CS_StringTable/Str_SC0103_L1_0130_Hina,Shu...,Şşş...
-D_CS_StringTable/Str_SC1605_L1_0231_HinaFox,Shu...,Şşş...
-D_CS_StringTable/Str_SC1605_L1_0310_HinaFox,Shu...,Şşş...
+D_CS_StringTable/Str_SC0103_L1_0030_Hina,Shu...,Shu...
+D_CS_StringTable/Str_SC0103_L1_0130_Hina,Shu...,Shu...
+D_CS_StringTable/Str_SC1605_L1_0231_HinaFox,Shu...,Shu...
+D_CS_StringTable/Str_SC1605_L1_0310_HinaFox,Shu...,Shu...
 D_CS_StringTable/Str_SC0301_L1_0070_Hina,Shu... You're alive...,Shu... Yaşıyorsun...
 D_CS_StringTable/Str_SC0901_L1_0380_Hina,Shu... Rinko...,Shu... Rinko...
 D_CS_StringTable/Str_SC1606_L1_0030_HinaFox,Shu... Thank you...,Shu... Teşekkürler...
-D_CS_StringTable/Str_SC1609_L1_0080_Hina,Shu!,Şşşt!
-D_CS_StringTable/Str_SC1609_L1_0140_Hina,Shu!,Şşşt!
+D_CS_StringTable/Str_SC1609_L1_0080_Hina,Shu!,Shu!
+D_CS_StringTable/Str_SC1609_L1_0140_Hina,Shu!,Shu!
 D_CS_StringTable/Str_SC0301_L1_0320_Hina,Shu...?,Shu...?
 D_CS_StringTable/Str_SC1605_L1_0410_HinaFox,Shu...?,Shu...?
 D_CS_StringTable/Str_SC1001_L1_0380_Hina,Where is he?!,O nerede?!
-D_CS_StringTable/Str_SC1605_L1_0470_HinaFox,Shu!,Şşşt!
-D_CS_StringTable/Str_SC0303_L1_0070_Rinko,Shu!,Şşşt!
+D_CS_StringTable/Str_SC1605_L1_0470_HinaFox,Shu!,Shu!
+D_CS_StringTable/Str_SC0303_L1_0070_Rinko,Shu!,Shu!
 D_CS_StringTable/Str_SC0704_L1_0020_Hina,Shu?!,Shu?!
 D_CS_StringTable/Str_SC0302_L1_0010_Hina,Shu! Where are you?,Shu! Neredesin?
 D_CS_StringTable/Str_SC1611_L1_0020_Hina,"Uh-hun. Thank you, Shu.","Evet. Teşekkürler, Shu."
@@ -1813,8 +1813,8 @@ D_CS_StringTable/Str_SC0704_L1_0010_Hina,Shu... Rinko...?,Shu... Rinko...?
 D_CS_StringTable/Str_SC0304_L1_0080_Hina,Shu?!,Shu?!
 D_CS_StringTable/Str_SC0202_L1_0060_Koto,That's enough!,Yeter artık!
 D_CS_StringTable/Str_SC1612_L1_0120_Koto,"humankind produces an extraordinary girl
-who is blessed with divine power.","insanlık olağanüstü bir kız çocuğu dünyaya getirir,
-ilahi bir güçle kutsanmış."
+who is blessed with divine power.","insanlık ilahi bir güçle kutsanmış,
+olağanüstü bir kız çocuğu dünyaya getirir."
 D_CS_StringTable/Str_SC1614_L1_0050_HinaFox,He grew... to love someone deeply.,"O, birini derinden sevmeyi... öğrendi."
 D_CS_StringTable/Str_SC1614_L1_0080_Hina,I want to live a life that full of passion.,Ben de tutku dolu bir hayat yaşamak istiyorum.
 D_CS_StringTable/Str_SC0804_L1_0010_Koto,You have endured incredible agony.,İnanılmaz bir acıya katlandın.
@@ -1822,7 +1822,7 @@ D_CS_StringTable/Str_SC1605_L1_0621_Shuu,You should hate me...,Benden nefret etm
 D_CS_StringTable/Str_SC1614_L1_0090_Hina,Of purpose. To pour my whole heart into things.,Bir amacım olsun. Her şeyi tüm kalbimle yapayım.
 D_CS_StringTable/Str_SC1502_L1_0161_Hina,This is what caused it all...,Her şeye bu sebep oldu...
 D_CS_StringTable/Str_SC1602_L1_0031_Hina,I'll destroy IT AAALL!,HEPSİNİ YOK EDECEĞİM!
-D_CS_StringTable/Str_SC0805_L1_0140_Saishu,Gone!,Yok ol!
+D_CS_StringTable/Str_SC0805_L1_0140_Saishu,Gone!,Gitmiş!
 D_CS_StringTable/Str_SC1604_L1_0030_Policeman,One victim is currently in cardiac arrest.,Bir kurban şu anda kalp durması yaşıyor.
 D_CS_StringTable/Str_SC1004_L1_0090_Kimie,in front of his daughters.,kızlarının önünde.
 D_CS_StringTable/Str_SC1004_L1_0330_Kimie,"But you know,","Ama, biliyorsun,"
@@ -1835,9 +1835,9 @@ D_CS_StringTable/Str_SC0301_L1_0340_Shuu,Keep up or I'll leave you behind.,Ayak 
 D_CS_StringTable/Str_SC1610_L1_0100_Fox7,"I am still a monster, after all,
 and won't hesitate to consume you if given the chance.","Sonuçta hala bir canavarım,
 ve fırsatım olursa seni tüketmekten çekinmem."
-D_CS_StringTable/Str_SC0201_L1_0050_Koto,Take a moment to rest if you need to.,İhtiyacın olursa dinlenmek için bir an ayır.
+D_CS_StringTable/Str_SC0201_L1_0050_Koto,Take a moment to rest if you need to.,İhtiyacın olursa bi süre dinlen.
 D_CS_StringTable/Str_SC0803_L1_0050_Koto,The next ritual shall be the last.,Bir sonraki ritüel sonuncu olacak.
-D_CS_StringTable/Str_LQ1603_L1_0450_Shuu,Now it's my turn! U-Uh... Um...,Şimdi sıra bende! Ş-şey... Hım...
+D_CS_StringTable/Str_LQ1603_L1_0450_Shuu,Now it's my turn! U-Uh... Um...,Şimdi sıra bende! U-Uh... Um...
 D_CS_StringTable/Str_SC1614_L1_0060_HinaFox,"To do anything,","Her şeyi yapmak için,"
 D_CS_StringTable/Str_SC0601_L1_0070_Koto,You need rest.,Dinlenmeye ihtiyacın var.
 D_CS_StringTable/Str_LQ1603_L1_0530_Sakuko,Bye-bye!,Güle güle!
@@ -1856,17 +1856,17 @@ D_CS_StringTable/Str_SC0301_L1_0290_Hina,at a time like this?,Böylesi bir zaman
 D_CS_StringTable/Str_LQ1603_L1_0350_Hina,"Well, one time, Rinko skipped gym class
 and took Shu's clothes and—","Şey, bir keresinde Rinko beden dersini asmıştı
 ve Shu'nun kıyafetlerini almıştı ve—"
-D_CS_StringTable/Str_SC1001_L1_0360_HinaPast,Rinko and Sakuko are next!,Rinko ve Sakuko sırada!
+D_CS_StringTable/Str_SC1001_L1_0360_HinaPast,Rinko and Sakuko are next!,Sıradakiler Rinko ve Sakuko!
 D_CS_StringTable/Str_SC0303_L1_0040_Shuu,Rinko!,Rinko!
 D_CS_StringTable/Str_SC0805_L1_0060_Hina,Rinko!,Rinko!
 D_CS_StringTable/Str_LQ1603_L1_0310_Hina,RINKO! You're gonna burn in hell for that!,RINKO! Bunun için cehennemde yanacaksın!
 D_CS_StringTable/Str_SC0303_L1_0440_Shuu,Rinko. We should bring some medicine and bandages with us.,Rinko. Yanımızda biraz ilaç ve bandaj bulundurmalıyız.
-D_CS_StringTable/Str_SC1005_L1_0140_HinaPast,Get out. GET OUT OF MY LIFE!,Defol. DEFOL HAYATIMDAN!
+D_CS_StringTable/Str_SC1005_L1_0140_HinaPast,Get out. GET OUT OF MY LIFE!,Defol. DEFOL GİT HAYATIMDAN!
 D_CS_StringTable/Str_SC1604_L1_0180_Policeman,"We'll need to have them tested,
 but they appear to be the same kind as the ones at the wedding venue.","Onları test ettirmemiz gerekecek,
 ama düğün mekanındakilerle aynı türden gibi görünüyorlar."
 D_CS_StringTable/Str_SC1005_L1_0470_Kanta,"I might be hopeless, but not all fathers are.","Ben umutsuz olabilirim, ama tüm babalar değil."
-D_CS_StringTable/Str_SC1001_L1_0030_HinaPast,Don't just stand there. Come in.,Öylece durma. İçeri gel.
+D_CS_StringTable/Str_SC1001_L1_0030_HinaPast,Don't just stand there. Come in.,Orda öylece durma. İçeri gel.
 D_CS_StringTable/Str_SC0404_L1_0030_Koto,Fear not. This is nothing to fret over.,Korkma. Endişelenecek bir şey yok.
 D_CS_StringTable/Str_SC1002_L1_0330_Hina,Stop.,Dur.
 D_CS_StringTable/Str_SC1002_L1_0370_Hina,Stop...,Dur...
@@ -1881,7 +1881,7 @@ D_CS_StringTable/Str_SC0404_L1_0070_Hina,What was that...?,O da neydi...?
 D_CS_StringTable/Str_SC0203_L1_0010_Koto,The door from earlier was for welcoming visitors.,"Az önceki kapı, ziyaretçileri ağırlamak içindi."
 D_CS_StringTable/Str_SC1604_L1_0200_Policeman,"Be sure to follow all safety protocols
 when handling the capsules. HQ out.","Kapsülleri kullanırken tüm güvenlik
-protokollerine uyduğunuzdan emin olun. Merkez kapandı."
+protokollerine uyduğunuzdan emin olun. Merkez tamam."
 D_CS_StringTable/Str_SC1612_L1_0200_Koto,Failing to charm his bride-to-be...,Gelin adayını etkilemeyi başaramayınca...
 D_CS_StringTable/Str_SC0404_L1_0060_Koto,How foolish of an evil spirit to enter this place.,Kötü bir ruhun buraya girmesi ne kadar da aptalca.
 D_CS_StringTable/Str_SC0301_L1_0150_Shuu,"Still though,","Yine de,"
@@ -1893,7 +1893,7 @@ You were possessed by something so foul...","İnanılmaz.
 Seni bu kadar iğrenç bir şey ele geçirmişti..."
 D_CS_StringTable/Str_SC1005_L1_0150_Hina,Listen to him...,Onu dinle...
 D_CS_StringTable/Str_SC1613_L1_0130_Koto,failed to realize what you desire most.,ne istediğini anlamakta başarısız oldum.
-D_CS_StringTable/Str_SC1505_L1_0131_Hina,let me do this!,bırakın yapayım!
+D_CS_StringTable/Str_SC1505_L1_0131_Hina,let me do this!,bırak ben yapayım!
 D_CS_StringTable/Str_SC1006_L1_0310_NpcMan,Nice!,Güzel!
 D_CS_StringTable/Str_SC1401_L1_0010_Junko,Now say your farewells.,Şimdi vedalaşma zamanı.
 D_CS_StringTable/Str_SC1614_L1_0020_Hina,what should we do about our future?,Geleceğimiz için ne yapmalıyız?
@@ -1905,7 +1905,7 @@ D_CS_StringTable/Str_SC0101_L2_0210_Kanta,"It's settled.
 We'll decide everything from here on out.","Karar verildi.
 Bundan sonra her şeye biz karar vereceğiz."
 D_CS_StringTable/Str_SC1202_L1_0130_Junko,Now die.,Şimdi öl.
-D_CS_StringTable/Str_SC0103_L1_0400_Sakuko,You trait-,Sen hain–
+D_CS_StringTable/Str_SC0103_L1_0400_Sakuko,You trait-,Seni hai–
 D_CS_StringTable/Str_SC0107_L1_0010_Sakuko,You traitor.,Seni hain.
 D_CS_StringTable/Str_SC0107_L1_0100_Sakuko,You traitor.,Seni hain.
 D_CS_StringTable/Str_SC1612_L1_0230_HinaFox,"He just...
@@ -1925,12 +1925,12 @@ D_CS_StringTable/Str_SC1005_L1_0290_Hina,"And you don't...
 have to listen to any of his excuses or apologies either.","Ve onun...
 bahanelerini veya özürlerini de dinlemek zorunda değilsin."
 D_CS_StringTable/Str_SC0504_L1_0030_Rinko,"If you want,","İstersen,"
-D_CS_StringTable/Str_SC1202_L2_0090_Hina,I would rather suffer... and find my own way.,Çekmeyi tercih ederim... ve kendi yolumu bulurum.
-D_CS_StringTable/Str_SC0802_L1_0120_Hina,I do. I feel... fine...,Evet. İyiyim... sanırım...
+D_CS_StringTable/Str_SC1202_L2_0090_Hina,I would rather suffer... and find my own way.,Acı çekmeyi tercih ederim... ve kendi yolumu bulurum.
+D_CS_StringTable/Str_SC0802_L1_0120_Hina,I do. I feel... fine...,Evet. İyi... hissediyorum...
 D_CS_StringTable/Str_SC0901_L1_0320_Junko,You're running out of time to choose.,Seçmek için zamanın tükeniyor.
 D_CS_StringTable/Str_SC1609_L1_0120_Koto,"How dare you set foot here!
 How did filth like you creep in?!","Buraya ayak basmaya nasıl cüret edersin!
-Sizin gibi pislikler nasıl sızdı?!"
+Sizin gibi pislikler içeri nasıl sızdı?!"
 D_CS_StringTable/Str_SC1605_L1_0160_Koto,Curse you! What have you done to Hinako?!,Lanet olsun sana! Hinako'ya ne yaptın?!
 D_CS_StringTable/Str_SC1003_L1_0290_Hina,B-but...,A-ama...
 D_CS_StringTable/Str_SC1003_L1_0140_HinaPast,But that's...,Ama bu...
@@ -1945,7 +1945,7 @@ D_CS_StringTable/Str_SC1611_L1_0150_Hina,Shut up!,Kapa çeneni!
 D_CS_StringTable/Str_SC0102_L1_0040_Hina,Agh!,Ah!
 D_CS_StringTable/Str_SC0605_L1_0040_Hina,No...!,Hayır...!
 D_CS_StringTable/Str_SC0301_L1_0240_Shuu,"Oh, uh,","Şey, ıhm,"
-D_CS_StringTable/Str_LQ1603_L1_0180_Sakuko,Hm. The battery's dead.,Hm. Pil bitmiş.
+D_CS_StringTable/Str_LQ1603_L1_0180_Sakuko,Hm. The battery's dead.,Hm. Pil cortlamış.
 D_CS_StringTable/Str_LQ1603_L1_0250_Hina,"U-Uh,","Ş-Şey,"
 D_CS_StringTable/Str_SC1004_L1_0562_Hina,mom.,anne.
 D_CS_StringTable/Str_SC1002_L1_0300_HinaPast,Every nest will be empty.,Her yuva boş olacak.
@@ -1956,10 +1956,10 @@ to childhood friends.","Çocukluk arkadaşlarına veda etmek
 senin için zor olmalı."
 D_CS_StringTable/Str_SC0202_L1_0190_Hina,Where...?,Nerede...?
 D_CS_StringTable/Str_SC0901_L1_0020_Hina,Huh...? Mom?!,Ha...? Anne?!
-D_CS_StringTable/Str_SC0201_L1_0030_Hina,Huh...?,Hı...? 
-D_CS_StringTable/Str_SC0901_L1_0330_Hina,Huh...?,Hı...? 
-D_CS_StringTable/Str_SC1002_L1_0080_Hina,Huh...?,Hı...? 
-D_CS_StringTable/Str_SC1005_L1_0170_HinaPast,Huh...?,Hı...? 
+D_CS_StringTable/Str_SC0201_L1_0030_Hina,Huh...?,Ha...?
+D_CS_StringTable/Str_SC0901_L1_0330_Hina,Huh...?,Ha...?
+D_CS_StringTable/Str_SC1002_L1_0080_Hina,Huh...?,Ha...?
+D_CS_StringTable/Str_SC1005_L1_0170_HinaPast,Huh...?,Ha...?
 D_CS_StringTable/Str_SC0103_L1_0280_Sakuko,"Wait, did I borrow something?","Dur, ben bir şey mi ödünç aldım?"
 D_CS_StringTable/Str_SC0502_L1_0050_Rinko,"What?! I want you by my side, Shu!","Ne?! Yanımda olmanı istiyorum, Shu!"
 D_CS_StringTable/Str_SC0105_L1_0010_Hina,Sa...ku...ko...,Sa...ku...ko...
@@ -1971,7 +1971,7 @@ D_CS_StringTable/Str_SC0403_L1_0010_Hina,Sakuko...?,Sakuko...?
 D_CS_StringTable/Str_SC0301_L1_0080_Shuu,"So, then...","Peki, o zaman..."
 D_CS_StringTable/Str_SC0103_L1_0270_Rinko,"You've got something of hers, too,
 don't you? Right ?","Sende de ona ait bir şeyler var,
-değil mi? Doğru?"
+değil mi?"
 D_CS_StringTable/Str_SC0105_L1_0050_Hina,you dreamed of a different life...,farklı bir hayat hayal ediyordun...
 D_CS_StringTable/Str_LQ1603_L1_0460_Shuu,"Sakuko first started wearing a bra in the sixth grade, while Hinako and Rinko started after summer break in fifth grade!","Sakuko sütyen takmaya altıncı sınıfta başladı, Hinako ve Rinko ise yaz tatilinden sonra beşinci sınıfta başladılar!"
 D_CS_StringTable/Str_SC1003_L1_0060_HinaPast,Sakuko told me,Sakuko bana söyledi
@@ -1979,16 +1979,16 @@ D_CS_StringTable/Str_SC0103_L1_0410_Rinko,Sakuko?!,Sakuko?!
 D_CS_StringTable/Str_SC0103_L1_0300_Rinko,What happened to paying her back with interest?,Faiziyle geri ödeme işi ne oldu?
 D_CS_StringTable/Str_LQ1603_L1_0430_Shuu,Uaaah!,Uaaah!
 D_CS_StringTable/Str_SC1006_L1_0070_NpcMan,Ooh! Ooh! It's gonna spill!,Ooh! Ooh! Dökülecek!
-D_CS_StringTable/Str_SC1006_L1_0140_NpcWoman,"Kimie, tell them you're cutting them off!","Kimie, onlara kesip attığını söyle!"
+D_CS_StringTable/Str_SC1006_L1_0140_NpcWoman,"Kimie, tell them you're cutting them off!","Kimie, onlarla ilişiğini keseceğini söyle!"
 D_CS_StringTable/Str_SC1006_L1_0110_NpcMan,"Hinako!
 When did you get to be such a foxy lady?","Hinako!
 Ne zaman bu kadar çekici bir kadın oldun?"
-D_CS_StringTable/Str_SC1006_L1_0300_NpcMan,Oooh!,Ooo!
+D_CS_StringTable/Str_SC1006_L1_0300_NpcMan,Oooh!,Oooh!
 D_CS_StringTable/Str_SC1612_L1_0180_Koto,seducing our brides with clever deceits...,gelinlerimizi ustaca hilelerle baştan çıkararak...
 D_CS_StringTable/Str_SC0901_L1_0060_Shuu,GAAAAGH!,GAAAAGH!
 D_CS_StringTable/Str_SC0501_L1_0060_Hina,"Oh, must have caught my sleeve somewhere.","Ah, bir yere takılmış olmalıyım."
 D_CS_StringTable/Str_SC0603_L1_0110_Rinko,AAAAAGH!,AAAAAGH!
-D_CS_StringTable/Str_LQ1603_L1_0270_Rinko,Aaaagh!,Aaaa!
+D_CS_StringTable/Str_LQ1603_L1_0270_Rinko,Aaaagh!,Aaaagh!
 D_CS_StringTable/Str_SC0303_L1_0460_Hina,"Hey, I'll help you look for it.","Hey, onu aramanda sana yardım edeceğim."
 D_CS_StringTable/Str_SC1001_L1_0150_HinaPast,"I'm also Hinako,","Ben de Hinako'yum,"
 D_CS_StringTable/Str_SC0103_L1_0390_Hina,"Oh, sorry... What?","Ah, pardon... Ne?"
@@ -2001,7 +2001,7 @@ D_CS_StringTable/Str_SC0501_L1_0020_Shuu,Hey!,Hey!
 D_CS_StringTable/Str_SC0901_L1_0050_Shuu,Hey! Let Rinko go!,Hey! Rinko'yu bırak!
 D_CS_StringTable/Str_SC0502_L1_0110_Shuu,"Hey,","Hey,"
 D_CS_StringTable/Str_SC0901_L1_0010_Kimie,Hinako?,Hinako?
-D_CS_StringTable/Str_SC1006_L1_0020_NpcMan,It's Hinako! She's back!,Hinako bu! Geri döndü!
+D_CS_StringTable/Str_SC1006_L1_0020_NpcMan,It's Hinako! She's back!,Bu Hinako! Geri döndü!
 D_CS_StringTable/Str_SC1101_L1_0010_Koto,"Please, drink this. It will ease your pain.","Lütfen, bunu iç. Acını hafifletecek."
 D_CS_StringTable/Str_LQ1603_L1_0130_Rinko,Wha?!,Ne?!
 D_CS_StringTable/Str_SC0103_L1_0010_Shuu,"Hey,","Hey,"
@@ -2011,18 +2011,18 @@ D_CS_StringTable/Str_SC1002_L1_0560_HinaPast,"Yeah, I'm scared.","Evet, korkuyor
 D_CS_StringTable/Str_SC0103_L1_0050_Hina,Hm?,Hm?
 D_CS_StringTable/Str_SC0501_L1_0161_Rinko,Mm-hm.,Mm-hm.
 D_CS_StringTable/Str_SC1614_L1_0180_Hina,Yeah.,Evet.
-D_CS_StringTable/Str_SC0301_L1_0140_Hina,It's one nightmare after another.,"Bu, bir kabustan diğerine geçmek gibi."
+D_CS_StringTable/Str_SC0301_L1_0140_Hina,It's one nightmare after another.,Birbirini ardında gelen kabuslar.
 D_CS_StringTable/Str_SC0107_L1_0070_Hina,I just want to talk to someone.,Sadece biriyle konuşmak istiyorum.
 D_CS_StringTable/Str_SC0103_L1_0090_Shuu,"Well, that's my Hinako.",İşte benim Hinako'm.
-D_CS_StringTable/Str_SC0301_L1_0170_Hina,Huh?,Ha?
+D_CS_StringTable/Str_SC0301_L1_0170_Hina,Huh?,Huh?
 D_CS_StringTable/Str_SC0605_L1_0030_Koto,Hm?,Hm?
 D_CS_StringTable/Str_SC0101_L2_0030_HinaGirl,"I dunno... Maybe not.
 It doesn't sound fun when Daddy talks about it.","Bilmiyorum... Belki de değil.
 Babam bahsettiğinde eğlenceli gelmiyor."
 D_CS_StringTable/Str_SC1006_L1_0290_Kanta,IYOOOO!,IYOOOO!
 D_CS_StringTable/Str_SC0304_L1_0130_Shuu,"when we played in the rice fields, remember?",pirinç tarlalarında oynadığımız zamanları hatırlıyor musun?
-D_CS_StringTable/Str_SC1503_L1_0060_Junko,"Now, begone!","Şimdi, defol!"
-D_CS_StringTable/Str_SC1003_L1_0270_HinaPast,Well? Tell me. Tell me!,Peki? Söyle bana. Söyle!
+D_CS_StringTable/Str_SC1503_L1_0060_Junko,"Now, begone!","Şimdi, kaybol!"
+D_CS_StringTable/Str_SC1003_L1_0270_HinaPast,Well? Tell me. Tell me!,Peki? Söyle bana. Söyle bana!
 D_CS_StringTable/Str_SC0301_L1_0300_Shuu,Maybe she went...home?,Belki de... evine gitmiştir?
 D_CS_StringTable/Str_SC0805_L1_0040_Saishu,"Because today,","Çünkü bugün,"
 D_CS_StringTable/Str_SC0806_L1_0040_Hina,"that in the end,","sonunda,"
@@ -2046,10 +2046,10 @@ D_CS_StringTable/Str_SC1613_L1_0100_HinaFox,Kotoyuki... you could—,Kotoyuki...
 D_CS_StringTable/Str_SC1606_L1_0040_Shuu,Kotoyuki... I'm counting on you...,Kotoyuki... Sana güveniyorum...
 D_CS_StringTable/Str_LQ1603_L1_0510_Hina,What about the aliens? Everything all right?,Peki ya uzaylılar? Her şey yolunda mı?
 D_CS_StringTable/Str_SC0303_L1_0170_Rinko,What's with the monsters everywhere?,Her yerdeki bu canavarlar da neyin nesi?
-D_CS_StringTable/Str_SC0705_L1_0010_Hina,Partner...,Partner...
+D_CS_StringTable/Str_SC0705_L1_0010_Hina,Partner...,Ortak...
 D_CS_StringTable/Str_SC0304_L1_0230_Hina,Partner...?,Ortak...?
-D_CS_StringTable/Str_SC0103_L1_0020_Shuu,partner.,partner.
-D_CS_StringTable/Str_SC0502_L1_0080_Hina,You should rest up too. I'll go find the key.,Senin de dinlenmen gerek. Anahtarı ben bulmaya gideceğim.
+D_CS_StringTable/Str_SC0103_L1_0020_Shuu,partner.,ortak.
+D_CS_StringTable/Str_SC0502_L1_0080_Hina,You should rest up too. I'll go find the key.,Senin de dinlenmen gerek. Ben anahtarı bulmaya gidiyorum.
 D_CS_StringTable/Str_SC0502_L1_0020_Shuu,"You must be exhausted too, huh?","Sen de yorgun olmalısın, değil mi?"
 D_CS_StringTable/Str_SC0604_L1_0040_Shuu,I'll... respect my partner's choice.,Ben... ortağımın seçimine saygı duyacağım.
 D_CS_StringTable/Str_SC1605_L1_0700_HinaFox,"Let's do this, partner!","Hadi yapalım şunu, ortak!"
@@ -2064,7 +2064,7 @@ D_CS_StringTable/Str_SC0101_L1_0050_HinaGirl,They said I can't play house with t
 D_CS_StringTable/Str_SC0103_L1_0190_Sakuko,She said that she just wanted to talk to someone.,Sadece biriyle konuşmak istediğini söyledi.
 D_CS_StringTable/Str_LQ1603_L1_0170_Sakuko,This robot can detect aliens masquerading as humans and automatically eliminate them!,"Bu robot, insan kılığına girmiş uzaylıları tespit edebilir ve onları otomatik olarak ortadan kaldırabilir!"
 D_CS_StringTable/Str_SC0101_L1_0270_Kanta,Then why isn't she listening to me?!,O zaman neden beni dinlemiyor ki?!
-D_CS_StringTable/Str_SC0101_L2_0270_Kanta,She's going to do as she's told for once and help me pay off this debt!,Bu sefer dediğimi yapacak ve bu borcu ödememe yardım edecek!
+D_CS_StringTable/Str_SC0101_L2_0270_Kanta,She's going to do as she's told for once and help me pay off this debt!,Bir kez olsun söyleneni yapacak ve bu borcu ödememe yardım edecek!
 D_CS_StringTable/Str_SC0303_L1_0200_Rinko,I can't believe it...,İnanamıyorum...
 D_CS_StringTable/Str_SC0502_L1_0040_Hina,No problem.,Sorun değil.
 D_CS_StringTable/Str_SC0405_L1_0020_Hina,O-Okay...,T-Tamam...
@@ -2079,7 +2079,7 @@ D_CS_StringTable/Str_SC1607_L1_0070_HinaFox,I'm so scared... please…,Çok kork
 D_CS_StringTable/Str_SC0105_L1_0110_Hina,"Sweet dreams,","Tatlı rüyalar,"
 D_CS_StringTable/Str_SC0705_L1_0051_Hina,on my own.,tek başıma.
 D_CS_StringTable/Str_SC1005_L1_0100_HinaPast,"I'm terrified that you might blow up
-and throw a knife at me again!","Çok korkuyorum yine patlayıp
+and throw a knife at me again!","Çok korkuyorum yine patlayıp da
 bana bıçak fırlatacaksın diye!"
 D_CS_StringTable/Str_SC0304_L1_0020_Hina,"Takes me back, yeah.","Beni geçmişe götürüyor, evet."
 D_CS_StringTable/Str_SC0101_L1_0200_Junko,It's beautiful.,Çok güzel.
@@ -2117,10 +2117,10 @@ D_CS_StringTable/Str_SC0301_L1_0180_Shuu,"Even if no one else is left in this wo
 D_CS_StringTable/Str_SC1002_L1_0450_HinaPast,"If that's what you're going to do,","Eğer yapacağın buysa,"
 D_CS_StringTable/Str_SC0806_L1_0070_Hina,And now...,Ve şimdi...
 D_CS_StringTable/Str_SC1005_L1_0560_Kanta,I don't... expect you to forgive me.,Benden... beni affetmeni beklemiyorum.
-D_CS_StringTable/Str_SC1605_L1_0010_Hina,You took... You took... everything from me!,Sen... Sen... benden her şeyi aldın!
-D_CS_StringTable/Str_SC1601_L1_0010_Hina,You... You took EVERYTHING from me!,Sen... Benden HER ŞEYİ aldın!
+D_CS_StringTable/Str_SC1605_L1_0010_Hina,You took... You took... everything from me!,Sen... Sen... benden her şeyimi aldın!
+D_CS_StringTable/Str_SC1601_L1_0010_Hina,You... You took EVERYTHING from me!,Sen... Benden HER ŞEYİMİ aldın!
 D_CS_StringTable/Str_SC1001_L1_0050_Hina,Tell me. Who are you...?,Söyle bana. Sen kimsin...?
-D_CS_StringTable/Str_SC1202_L1_0010_Hina,How...could you do that...,Nasıl...bunu nasıl yapabildin...
+D_CS_StringTable/Str_SC1202_L1_0010_Hina,How...could you do that...,Bunu...nasıl yapabildin...
 D_CS_StringTable/Str_SC1502_L1_0100_Junko,Is it really okay for you to take that much?!,Gerçekten bu kadarını alman senin için sorun değil mi?!
 D_CS_StringTable/Str_SC1005_L1_0060_Kanta,It's okay if you don't forgive me.,Beni affetmezsen sorun değil.
 D_CS_StringTable/Str_SC0601_L1_0060_Koto,Do not push yourself.,Kendini zorlama.
@@ -2131,11 +2131,11 @@ D_CS_StringTable/Str_SC1002_L1_0420_Hina,I don't want to hear it! I don't know!,
 D_CS_StringTable/Str_SC0605_L1_0090_Koto,You need not apologize.,Özür dilemene gerek yok.
 D_CS_StringTable/Str_SC1001_L1_0180_Hina,You're not making any sense at all!,Hiçbir anlam ifade etmiyorsun!
 D_CS_StringTable/Str_SC1502_L1_0150_Hina,Leave me alone!,Beni rahat bırak!
-D_CS_StringTable/Str_SC0901_L1_0150_Junko,I feel the same...,Aynı şeyi hissediyorum...
+D_CS_StringTable/Str_SC0901_L1_0150_Junko,I feel the same...,Aynı hissediyorum...
 D_CS_StringTable/Str_SC0501_L1_0030_Rinko,"You klutz.
-You fell down the stairs.","Sakarsın seni.
+You fell down the stairs.","Seni sakar.
 Merdivenlerden düştün."
-D_CS_StringTable/Str_SC0103_L1_0260_Rinko,What do you think you're laughing at?,Neye gülüyorsun sanıyorsun?
+D_CS_StringTable/Str_SC0103_L1_0260_Rinko,What do you think you're laughing at?,Neye güldüğünü sanıyorsun?
 D_CS_StringTable/Str_SC1605_L1_0050_HinaFox,It's not like you can't see them.,Onları göremez değilsin sonuçta.
 D_CS_StringTable/Str_SC0604_L1_0010_Shuu,... You came back...partner...,... Geri döndün... ortak...
 D_CS_StringTable/Str_SC1613_L1_0020_Koto,Are you two okay?!,İkiniz iyi misiniz?!
@@ -2148,18 +2148,18 @@ D_CS_StringTable/Str_SC1605_L1_0150_Koto,and resisted it for so long.,ve bunca z
 D_CS_StringTable/Str_SC1609_L1_0040_Koto,Who are you? Hinako would never act this way!,Sen kimsin? Hinako asla böyle davranmazdı!
 D_CS_StringTable/Str_SC0201_L1_0040_Koto,"Do not push yourself.
 Take a moment to rest if you need to.","Kendini zorlama.
-İhtiyacın olursa dinlenmek için bir an ayır."
+Gerekirse bi süre dinlen."
 D_CS_StringTable/Str_SC1004_L1_0470_Kimie,After you and Junko went to bed...,Sen ve Junko yatağa girdikten sonra...
 D_CS_StringTable/Str_SC1001_L1_0400_HinaPast,Hey...,Hey...
 D_CS_StringTable/Str_SC0503_L1_0040_Hina,Where...?!,Nerede...?!
 D_CS_StringTable/Str_SC0502_L1_0030_Shuu,You can take a rest.,Dinlenebilirsiniz.
 D_CS_StringTable/Str_SC1601_L1_0020_Hina,Sakuko... Rinko... and Shu.,Sakuko... Rinko... ve Shu.
 D_CS_StringTable/Str_SC1605_L1_0030_Hina,Sakuko... Rinko... and Shu.,Sakuko... Rinko... ve Shu.
-D_CS_StringTable/Str_SC1201_L1_0020_Hina,You took every- EVERYTHING from me!,Benden her şeyi... HER ŞEYİ aldın!
-D_CS_StringTable/Str_SC0203_L1_0110_Koto,Tell me if you need a break.,Mola vermeye ihtiyacın olursa söyle.
+D_CS_StringTable/Str_SC1201_L1_0020_Hina,You took every- EVERYTHING from me!,Benden her şeyimi... HER ŞEYİMİ aldın!
+D_CS_StringTable/Str_SC0203_L1_0110_Koto,Tell me if you need a break.,Molaya ihtiyacın olursa söyle.
 D_CS_StringTable/Str_SC1001_L1_0330_HinaPast,"If you're going to keep running like this,
-then fine!","Eğer böyle kaçmaya devam edeceksen,
-peki, tamam o zaman!"
+then fine!","Eğer böyle koşmaya devam edeceksen,
+iyi o zaman!"
 D_CS_StringTable/Str_SC1609_L1_0220_Fox7,"Abandon your world.
 Let the memory of your presence there fade away.","Dünyanı terk et.
 Varlığının hatırası orada kaybolsun."
@@ -2168,14 +2168,14 @@ you still can't accept the inevitable?","Hâlâ mı,
 kaçınılmaz olanı kabullenemiyorsun?"
 D_CS_StringTable/Str_SC1605_L1_0620_Shuu,You should...,Sen...
 D_CS_StringTable/Str_SC1001_L1_0110_HinaPast,"you're me, but I'm not you.","sen bensin, ama ben sen değilim."
-D_CS_StringTable/Str_SC1003_L1_0380_HinaPast,then kill me! Kill me now!,o zaman öldür beni! Öldür beni şimdi!
+D_CS_StringTable/Str_SC1003_L1_0380_HinaPast,then kill me! Kill me now!,o zaman öldür beni! Şimdi öldür beni!
 D_CS_StringTable/Str_SC1002_L1_0691_HinaPast,So you give me your wings!,O zaman bana kanatlarını ver!
 D_CS_StringTable/Str_SC1005_L1_0550_Kanta,And I'll support your choice.,Ve ben senin kararını destekleyeceğim.
-D_CS_StringTable/Str_SC0901_L1_0030_Kimie,Please come home.,Lütfen eve dön.
+D_CS_StringTable/Str_SC0901_L1_0030_Kimie,Please come home.,Lütfen eve gel.
 D_CS_StringTable/Str_SC0201_L1_0010_Koto,Are you...all right?,İyi...misin?
 D_CS_StringTable/Str_SC0901_L1_0310_Junko,You can't think about it forever.,Sonsuza kadar bunu düşünemezsin.
 D_CS_StringTable/Str_SC1504_L1_0070_Junko,"It's unsettling. Terrifying, even.",İç karartıcı. Hatta dehşet verici.
-D_CS_StringTable/Str_SC0601_L1_0120_Koto,"you did well to make it this far, Hinako.","Buraya kadar geldiğin iyi oldu, Hinako."
+D_CS_StringTable/Str_SC0601_L1_0120_Koto,"you did well to make it this far, Hinako.","Buraya kadar gelmekle iyi iş çıkardın, Hinako."
 D_CS_StringTable/Str_SC0803_L1_0010_Koto,You've done well.,İyi iş çıkardın.
 D_CS_StringTable/Str_SC0804_L1_0020_Koto,"That was brave of you, Hinako.","Cesurdun, Hinako."
 D_CS_StringTable/Str_SC1611_L1_0140_Shuu,"Yeah, well, you look really weird in...that.","Evet, şey, sen de gerçekten tuhaf görünüyorsun... o şeyin içinde."
@@ -2187,28 +2187,28 @@ D_CS_StringTable/Str_SC0503_L2_0090_Junko,"You're going to kill them.
 With your own hands.","Onları öldüreceksin.
 Kendi ellerinle."
 D_CS_StringTable/Str_SC0901_L1_0260_Junko,You must decide your future.,Geleceğini sen seçmelisin.
-D_CS_StringTable/Str_SC1605_L1_0690_Shuu,and run.,ve kaç.
+D_CS_StringTable/Str_SC1605_L1_0690_Shuu,and run.,ve koş.
 D_CS_StringTable/Str_SC1502_L1_0030_Hina,You don't understand how I feel!,Nasıl hissettiğimi anlamıyorsun!
 D_CS_StringTable/Str_SC0301_L1_0060_Shuu,"you have never been one
 to go down without a fight...","sen asla pes etmeden
 yenilen biri olmadın..."
 D_CS_StringTable/Str_SC1202_L1_0070_Junko,What you are doing is incredibly rude.,Yaptığın şey inanılmaz derecede kaba.
-D_CS_StringTable/Str_SC1001_L1_0190_HinaPast,Then stop playing dumb with me!,O zaman benimle aptalı oynamayı kes!
-D_CS_StringTable/Str_SC1002_L1_0520_Hina,Why don't YOU kill ME?!,Neden SEN öldürmüyorsun BENİ?!
+D_CS_StringTable/Str_SC1001_L1_0190_HinaPast,Then stop playing dumb with me!,O zaman bana aptalı oynamayı kes!
+D_CS_StringTable/Str_SC1002_L1_0520_Hina,Why don't YOU kill ME?!,BENİ neden SEN öldürmüyorsun?!
 D_CS_StringTable/Str_SC0103_L1_0070_Shuu,What about you? Nothing you want to say?,Peki ya sen? Söylemek istediğin bir şey yok mu?
 D_CS_StringTable/Str_SC1608_L1_0110_Hina,I want YOU gone!,SENİN yok olmanı istiyorum!
 D_CS_StringTable/Str_SC0601_L1_0010_Koto,You saved my life,Hayatımı kurtardın.
 D_CS_StringTable/Str_SC0202_L1_0110_Koto,That must have been some nightmare.,Bu bir kabus olmalı.
-D_CS_StringTable/Str_SC0806_L1_0280_Koto,You are my Hinako.,Sen benim Hinako'm.
+D_CS_StringTable/Str_SC0806_L1_0280_Koto,You are my Hinako.,Sen benim Hinako'msun.
 D_CS_StringTable/Str_SC1001_L1_0200_HinaPast,"Why are you acting like this,",Neden böyle davranıyorsun?
 D_CS_StringTable/Str_SC1002_L1_0130_Hina,You want to be someone other than me?,Benden başka biri olmak mı istiyorsun?
 D_CS_StringTable/Str_SC0101_L1_0250_Kanta,Where do you think you're going?!,Nereye gittiğini sanıyorsun?!
 D_CS_StringTable/Str_SC0806_L1_0220_Koto,You are Hinako.,Sen Hinako'sun.
-D_CS_StringTable/Str_SC0806_L1_0200_Koto,"You are Hinako, of course.",Elbette sen Hinako'sun.
+D_CS_StringTable/Str_SC0806_L1_0200_Koto,"You are Hinako, of course.","Sen Hinako'sun, elbette."
 D_CS_StringTable/Str_SC1605_L1_0230_Shuu,"Don't you trust me?
 It's always been the two of us!","Bana güvenmiyor musun?
-Biz hep iki kişiydik!"
-D_CS_StringTable/Str_SC1001_L1_0371_HinaPast,your precious partner as well.,senin de kıymetli partnerin.
+Her zaman ikimizdik!"
+D_CS_StringTable/Str_SC1001_L1_0371_HinaPast,your precious partner as well.,kıymetli partnerin de tabiki.
 D_CS_StringTable/Str_SC1002_L1_0091_HinaPast,Would you please just die?,Lütfen artık ölsen?
 D_CS_StringTable/Str_SC0304_L1_0040_Shuu,It's hard to picture a tough girl like you crying.,Senin gibi güçlü bir kızın ağladığını hayal etmek zor.
 D_CS_StringTable/Str_SC0107_L1_0040_Sakuko,Don't usually see you around here.,Seni buralarda pek görmem.
@@ -2227,7 +2227,7 @@ D_CS_StringTable/Str_SC1004_L1_0160_Kimie,"Your father had a friend who was very
 D_CS_StringTable/Str_SC1004_L1_0070_Kimie,"Your father can be...ill-tempered sometimes,
 I know.","Baban bazen huysuz olabilir...
 Biliyorum."
-D_CS_StringTable/Str_SC1004_L1_0170_Kimie,He always said how they were as close as brothers.,Onlar her zaman kardeş kadar yakın olduklarını söylerdi.
+D_CS_StringTable/Str_SC1004_L1_0170_Kimie,He always said how they were as close as brothers.,Her zaman kardeş kadar yakın olduklarını söylerdi.
 D_CS_StringTable/Str_SC1004_L1_0350_Kimie,"Your father might put on a tough face
 in front of you two,","Babanız ikinizin önünde sert bir yüz takınabilir
 "
@@ -2236,7 +2236,7 @@ D_CS_StringTable/Str_SC0603_L1_0060_Rinko,Get on your knees and beg for forgiven
 D_CS_StringTable/Str_SC1202_L1_0080_Junko,"But then,
 you should already know that by now.","Ama zaten,
 bunu artık biliyor olmalısın."
-D_CS_StringTable/Str_SC0901_L1_0200_Junko,The fact that you're alive...,Yaşıyor olman...
+D_CS_StringTable/Str_SC0901_L1_0200_Junko,The fact that you're alive...,Yaşıyor olduğun gerçeği...
 D_CS_StringTable/Str_SC1001_L1_0320_HinaPast,"You're not even trying
 to take any of this seriously!","Bunu ciddiye almaya
 çalışmıyorsun bile!"
@@ -2551,7 +2551,7 @@ D_CS_StringTable/Str_SC0303_L1_0130_Rinko,"they disappeared. Everyone's gone,","
 D_CS_StringTable/Str_SC0303_L1_0390_Shuu,But we can still take the highway.,Ama yine de otobanı kullanabiliriz.
 D_CS_StringTable/Str_SC1202_L2_0160_Hina,We have... agonized over it enough...,Yeterince... üstünde çok düşündük...
 D_CS_StringTable/Str_SC0504_L1_0081_Shuu,We've rested enough.,Yeterince dinlendik.
-D_CS_StringTable/Str_SC0303_L1_0230_Shuu,We've gotta get out of town.,Bu şehirden çıkmamız gerek.
+D_CS_StringTable/Str_SC0303_L1_0230_Shuu,We've gotta get out of town.,Bu kasabadan çıkmamız gerek.
 D_CS_StringTable/Str_SC0101_L2_0230_Kanta,We're never gonna get another chance like this!,Böylesi bir şansı bir daha asla yakalayamayacağız!
 D_CS_StringTable/Str_SC0303_L1_0280_Hina,but we need to do something and do it fast.,ama bir şeyler yapmamız ve hızlı yapmamız gerekiyor.
 D_CS_StringTable/Str_SC0301_L1_0120_Shuu,Some...some kind of terrible dream?,Bir nevi...korkunç bir rüya mı?
@@ -2730,7 +2730,7 @@ if you'll follow me.","Size göstereceğim bir şey daha var,
 eğer beni takip ederseniz."
 D_CS_StringTable/Str_SC1001_L1_0350_HinaPast,"And this house—
 this whole town's going with them!","Ve bu ev—
-bütün bu şehir onlarla birlikte gidecek!"
+bütün bu kasaba onlarla birlikte gidecek!"
 D_CS_StringTable/Str_SC0105_L1_0040_Hina,"Since you were little,","Küçüklüğünden beri,"
 D_CS_StringTable/Str_SC1004_L1_0391_Hina,I never knew that.,Bunu hiç bilmiyordum.
 D_CS_StringTable/Str_SC1002_L1_0180_HinaPast,And all of it just...,Ve tüm bunlar sadece...
@@ -3093,7 +3093,7 @@ D_CS_StringTable/Str_SC0303_L1_0030_Shuu,We'll find out.,Öğreneceğiz.
 D_CS_StringTable/Str_SC1611_L1_0130_Hina,"Y'know, you look really weird in a tie.","Biliyor musun, kravatla gerçekten çok garip görünüyorsun."
 D_CS_StringTable/Str_SC0505_L1_0040_Shuu,"These sick monsters...
 Are they spreading across the whole town?","Bu iğrenç canavarlar...
-Bütün şehre mi yayılıyorlar?"
+Bütün kasabaya mi yayılıyorlar?"
 D_CS_StringTable/Str_SC0605_L1_0100_Koto,"I should be begging your pardon
 for forcing this pain upon you.","Bu acıyı sana yaşattığım için
 asıl ben senden af dilemeliyim."
@@ -4917,7 +4917,7 @@ D_Item_StringTable/Str_Item_Oma_Tanuki,Omamori [Tanuki],Omamori [Tanuki]
 D_Item_StringTable/Str_Item_Oma_Wolf,Omamori [Wolf],Omamori [Kurt]
 D_Item_StringTable/Str_Item_Oma_StagBeetle,Omamori [Beetle],Omamori [Böcek]
 D_Item_StringTable/Str_Item_Oma_Take,Omamori [Bamboo],Omamori [Bambu]
-D_Item_StringTable/Str_Item_Oma_Kuzunoha,Omamori [Kudzu Leaf],Omamori [Kudzu Yaprağı]
+D_Item_StringTable/Str_Item_Oma_Kuzunoha,Omamori [Kudzu Leaf],Omamori [Japonsarmaşığı Yaprağı]
 D_Item_StringTable/Str_Item_Oma_Spider,Omamori [Spider],Omamori [Örümcek]
 D_Item_StringTable/Str_Item_Oma_Snake,Omamori [Serpent],Omamori [Yılan]
 D_Item_StringTable/Str_Item_Oma_Butterfly,Omamori [Butterfly],Omamori [Kelebek]
@@ -5669,10 +5669,10 @@ Böylesi bir onur için seçildiğin için minnettar ol."
 D_Item_StringTable/Str_Item_Key_ALW_SacredSwordOffering_03_Des,"Beautifully decorated Japanese-style slippers.
 Whoever wore them did so for a long time, but it is now cracked beyond repair.","Güzelce dekore edilmiş Japon tarzı terlikler.
 Kim giydiyse uzun süre giymiş, ancak artık onarılamayacak kadar çatlak."
-D_Item_StringTable/Str_Item_Letter_GorgeousReelB_Des,A scroll decorated with kudzu.,Kudzu ile dekore edilmiş bir parşömen.
-D_Item_StringTable/Str_Item_Letter_GorgeousReelC_Des,A scroll decorated with kudzu.,Kudzu ile dekore edilmiş bir parşömen.
-D_Item_StringTable/Str_Item_Letter_GorgeousReelD_Des,A scroll decorated with kudzu.,Kudzu ile dekore edilmiş bir parşömen.
-D_Item_StringTable/Str_Item_Letter_GorgeousReel_Des,A scroll decorated with kudzu.,Kudzu ile dekore edilmiş bir parşömen.
+D_Item_StringTable/Str_Item_Letter_GorgeousReelB_Des,A scroll decorated with kudzu.,Japonsarmaşığı ile dekore edilmiş bir parşömen.
+D_Item_StringTable/Str_Item_Letter_GorgeousReelC_Des,A scroll decorated with kudzu.,Japonsarmaşığı ile dekore edilmiş bir parşömen.
+D_Item_StringTable/Str_Item_Letter_GorgeousReelD_Des,A scroll decorated with kudzu.,Japonsarmaşığı ile dekore edilmiş bir parşömen.
+D_Item_StringTable/Str_Item_Letter_GorgeousReel_Des,A scroll decorated with kudzu.,Japonsarmaşığı ile dekore edilmiş bir parşömen.
 D_Item_StringTable/Str_Item_Letter_TsukumogamiEntry_05_Content_P2,"According to multiple eyewitness reports, the killer was a giant of a man—over two meters tall—who had covered himself head to toe in tree bark and roots fashioned into a kind of armor. On top of all that, he also wore a Noh mask.
 He marched around the town preaching the following:
 
@@ -6316,7 +6316,7 @@ D_Item_StringTable/Str_Item_Key_SCL_HallKey,Old Annex Main Gate Key,Eski Ek Bina
 D_Item_StringTable/Str_Item_Oma_Rabbit_Des,Press Heavy Attack immediately after performing a Perfect Dodge to deal a powerful Counter. This Counter greatly consumes Stamina.,Mükemmel bir Kaçış yaptıktan hemen sonra Güçlü Saldırı tuşuna basarak güçlü bir Karşı Saldırı yap. Bu Karşı Saldırı önemli miktarda Dayanıklılık tüketir.
 D_Item_StringTable/Str_Item_Letter_ENTextbook_Des,"An English textbook. The name ""Asakura Ayumi"" is written on the cover.","Bir İngilizce ders kitabı. Kapağında ""Asakura Ayumi"" ismi yazıyor."
 D_Item_StringTable/Str_Item_Letter_GorgeousReel,Ornate Scroll,Süslemeli Parşömen
-D_Item_StringTable/Str_Item_Con_DrinkC,Kudzu Tea,Kudzu Çayı
+D_Item_StringTable/Str_Item_Con_DrinkC,Kudzu Tea,Japonsarmaşığı Çayı
 D_Item_StringTable/Str_Item_Con_DrinkC_Des,"A slightly thick drink made by dissolving kudzu powder in water. In this region, ginger and freshly pressed juice are added to enrich the flavor. Freeze it before drinking.","Kudzu tozunun suda eritilmesiyle yapılan hafif kıvamlı bir içecek. Bu bölgede, lezzetini zenginleştirmek için zencefil ve taze sıkılmış meyve suyu eklenir. İçmeden önce dondurun."
 D_Item_StringTable/Str_Item_Letter_UnexplainedBody_Des,"An autopsy report with the stamp ""Viewing and Removal Prohibited.""","""İncelenmesi ve Kaldırılması Yasaktır"" damgası bulunan bir otopsi raporu."
 D_Item_StringTable/Str_Item_Letter_OldMedicalRecord_01_Content,"Fujitori Kotoyuki: Age 9
@@ -6598,7 +6598,7 @@ Günümüzde bile, topluluğun yaşlı üyelerinin birçoğu modern tıp yerine 
 Sadece bana daha erken gelmelerini dilerdim, onlar için çok geç olmadan."
 D_Item_StringTable/Str_Item_Letter_Prescription_02_Content_P2,"I don't like the thought of Hinako developing a reliance on such drugs. So, I switched her to traditional Chinese medicine that uses kudzu root and peony as it should put less of a strain on her body.
 
-That said, I know the real reason she comes around so often isn't just because she's looking for medicine, but for a place to air her grievances about her father.","Hinako'nun bu tür ilaçlara bağımlı hale gelmesi düşüncesi hoşuma gitmiyor. Bu yüzden, vücuduna daha az yük bindirmesi gereken kudzu kökü ve şakayık kullanan geleneksel Çin tıbbına geçtim.
+That said, I know the real reason she comes around so often isn't just because she's looking for medicine, but for a place to air her grievances about her father.","Hinako'nun bu tür ilaçlara bağımlı hale gelmesi düşüncesi hoşuma gitmiyor. Bu yüzden, vücuduna daha az yük bindirmesi gereken japonsarmaşığı kökü ve şakayık kullanan geleneksel Çin tıbbına geçtim.
 
 Bununla birlikte, buraya bu kadar sık gelmesinin asıl nedeninin sadece ilaç arayışı olmadığını, aynı zamanda babası hakkındaki şikayetlerini dile getirebileceği bir yer aradığını biliyorum."
 D_Item_StringTable/Str_Item_Oma_Kagami,Blessed Hand Mirror,Kutsanmış El Aynası
@@ -7310,8 +7310,8 @@ D_MissionHint_StringTable/Str_MH_Ch05_120,Leave the classroom,Sınıftan çık
 D_MissionHint_StringTable/Str_MH_Ch03_050,Escape,Kaç
 D_Notebook_StringTable/Str_NB_Tuto_Claw_Content_030,"<Bold>When starting the game from a completed file</>, you can perform Soul Siphon on multiple inanimate enemies in a small area.","<Bold>Oyuna tamamlanmış bir dosyadan başlarken</>, küçük bir alandaki birden fazla cansız düşmana Ruh Çekişi uygulayabilirsin."
 D_Notebook_StringTable/Str_NB_Tuto_ClawG_Content_030,"<Bold>When starting the game from a completed file</>, <Bold>the kudzu seal will be enhanced</>.
-Using an offering that recovers sanity will also fill up the kudzu seal.","<Bold>Oyuna tamamlanmış bir dosyadan başlandığında</>, <Bold>kudzu mührü güçlendirilecektir</>.
-Akıl sağlığını geri kazandıran bir adak kullanmak da kudzu mührünü dolduracaktır."
+Using an offering that recovers sanity will also fill up the kudzu seal.","<Bold>Oyuna tamamlanmış bir dosyadan başlandığında</>, <Bold>japonsarmaşığı mührü güçlendirilecektir</>.
+Akıl sağlığını geri kazandıran bir adak kullanmak da japonsarmaşığı mührünü dolduracaktır."
 D_Notebook_StringTable/Str_NB_Tuto_ClawG_Content_020,"<Bold>Special Attack</>:
 While attacking using <img id=""LightAttack""/>, 
 you can unleash a devastating attack with <img id=""heavyattack""/>. 
@@ -7326,7 +7326,7 @@ Odaklanmış bir Saldırı kullandıktan sonra, saldırılarınız kısa bir sü
 O süre içinde ikinci bir Odaklanmış Saldırı kullanırsanız, uzaylı yaşam formlarını püskürten bir ses dalgası ortaya çıkarırsınız."
 D_Notebook_StringTable/Str_NB_Tuto_Claw_Content_020,"<Bold>Awaken</>:<img id=""ClawTransform""/>
 The kudzu seal will fill up when you attack enemies or use Soul Siphon. Once it is full, you can Awaken your bestial form.","<Bold>Uyanış</>: <img id=""ClawTransform""/>
-Kudzu mührü, düşmanlara saldırdığında veya Ruh Sifonu kullandığında dolacaktır. Dolduğunda, vahşi formunu Uyandırabilirsin."
+Japonsarmaşığı mührü, düşmanlara saldırdığında veya Ruh Sifonu kullandığında dolacaktır. Dolduğunda, vahşi formunu Uyandırabilirsin."
 D_Notebook_StringTable/Str_NB_Info_FoxGod_Content_040,"Generally speaking, ""Inari-sama"" refers to the goddess of agriculture, Ukanomitama.
  
 The fox was the goddess's messenger, but over time their worship became intertwined. Nowadays, if anyone mentions Inari-sama, they'll think of the fox as well.
@@ -8862,7 +8862,7 @@ It was only the curse of fatherhood that made my dad appear human. This form, hi
 Babamı insan gibi gösteren sadece babalığın lanetiydi. Bu şekli, onun gerçek şekli, başından beri tüm bunların altında saklanmış olmalı."
 D_Notebook_StringTable/Str_NB_Puzzle_Ema_Normal,"Lightning cast down from the heavens split asunder the decayed tree.
 From the earth grows kudzu, the prophet of eternal prosperity.","Göklerden inen şimşek, çürümüş ağacı ikiye böldü.
-Topraktan kudzu yükseliyor, sonsuz refahın peygamberi."
+Topraktan japonsarmaşığı yükseliyor, sonsuz refahın peygamberi."
 D_Notebook_StringTable/Str_NB_Info_Doll_Title,Celluloid Doll,Selüloit Bebek
 D_Notebook_StringTable/Str_NB_Em_Hatcher_Content_010,"A hideous monster covered in countless skin cysts.
 
@@ -8910,8 +8910,8 @@ D_Notebook_StringTable/Str_NB_Tuto_ClawG_Content_010,"The awakened Fox Arm which
 When the kudzu seal is full, use <img id=""ClawTransform""/> to Awaken your bestial form.
 Use <img id=""ClawTransform""/> while in your bestial form to revert the Fox Arm to its normal state. The kudzu seal will deplete while you are in your bestial form. However, if you revert the Fox Arm before the seal runs out, then the seal will remain partially filled.","Uyanmış Tilki Kolu inanılmaz bir güce sahip.
  
-Kudzu mührü dolduğunda, <img id=""ClawTransform""/> kullanarak canavarca formunu Uyandır.
-Tilki Kolu'nu normal haline döndürmek için canavarca formundayken <img id=""ClawTransform""/> kullan. Canavarca formundayken kudzu mührü tükenecektir. Ancak, mühür bitmeden Tilki Kolu'nu eski haline döndürürseniz, mühür kısmen dolu kalacaktır."
+Japonsarmaşığı mührü dolduğunda, <img id=""ClawTransform""/> kullanarak canavarca formunu Uyandır.
+Tilki Kolu'nu normal haline döndürmek için canavarca formundayken <img id=""ClawTransform""/> kullan. Canavarca formundayken japonsarmaşığı mührü tükenecektir. Ancak, mühür bitmeden Tilki Kolu'nu eski haline döndürürseniz, mühür kısmen dolu kalacaktır."
 D_Notebook_StringTable/Str_NB_Puzzle_SacredSword_01_Content_013,Are five such statues located in this town? I expect tracking them down will prove a tremendous task.,Bu kasabada bu türden beş heykel mi bulunuyor? Onları bulup izlemenin muazzam bir görev olacağını tahmin ediyorum.
 D_Notebook_StringTable/Str_NB_Info_Origami_Content_020,"It's a tradition that's been in this town for ages, but it was particularly popular with middle schoolers.
 
@@ -9507,7 +9507,7 @@ Psikolojik hasar almak Akıl Sağlığının
 azalmasına neden olur. Akıl Sağlığın kalmadığında
 bunun yerine Canın hasar alır."
 D_Tutorial_StringTable/Str_Tutorial_PopUp_BrandPlus_020,"When starting the game from a completed file, Soul Siphon will be able to affect multiple inanimate enemies in a small area.","Oyuna tamamlanmış bir dosyadan başlarken, Ruh Sifonu küçük bir alandaki birden fazla cansız düşmanı etkileyebilecektir."
-D_Tutorial_StringTable/Str_Tutorial_PopUp_BrandPlus_010,"When starting the game from a completed file, using an offering that recovers sanity will also fill up the kudzu seal.","Oyuna tamamlanmış bir dosyadan başlarken, akıl sağlığını geri kazandıran bir adak kullanmak aynı zamanda kudzu mührünü de dolduracaktır."
+D_Tutorial_StringTable/Str_Tutorial_PopUp_BrandPlus_010,"When starting the game from a completed file, using an offering that recovers sanity will also fill up the kudzu seal.","Oyuna tamamlanmış bir dosyadan başlarken, akıl sağlığını geri kazandıran bir adak kullanmak aynı zamanda japonsarmaşığı mührünü de dolduracaktır."
 D_Tutorial_StringTable/Str_Tutorial_PopUp_Dodge_020,"If you Dodge just before an enemy's attack lands, you will perform a Perfect Dodge and recover your stamina.","Bir düşmanın saldırısı tam isabet etmeden hemen önce Dodge yaparsanız, Mükemmel Dodge gerçekleştirir ve dayanıklılığınızı geri kazanırsınız."
 D_Tutorial_StringTable/Str_Tutorial_ClawMaskFocus,"Hold <img id=""Focus""/> in front of certain walls 
 to reveal paths they may be hiding.","Gizli yolları ortaya çıkarmak için 
@@ -9560,9 +9560,9 @@ D_Tutorial_StringTable/Str_Tutorial_Clue,Clues to puzzles you have found will be
 D_Tutorial_StringTable/Str_Tutorial_PopUp_ClawKill_010,Enemies that have been rendered inanimate will reanimate after a period of time.,"Hareketsiz hale getirilmiş düşmanlar, belirli bir süre sonra yeniden canlanacaktır."
 D_Tutorial_StringTable/Str_Tutorial_PopUp_MaskFocus_020,"If you spot a suspicious-looking area in the Dark Shrine, use Focus and take a good look around.","Karanlık Tapınak'ta şüpheli görünen bir alan fark ederseniz, Odaklanma'yı kullanın ve etrafa iyice bakın."
 D_Tutorial_StringTable/Str_Tutorial_PopUp_CounterAttack_030,"If no visual hint is shown during an enemy's attack, that attack cannot be countered. Additionally, hints will not appear while Hinako is attacking or dodging. So, keep a close eye on enemies' movements.","Bir düşmanın saldırısı sırasında görsel bir ipucu gösterilmiyorsa, o saldırıya karşı koyulamaz. Ek olarak, Hinako saldırırken veya kaçarken ipuçları görünmez. Bu yüzden düşmanların hareketlerini yakından takip edin."
-D_Tutorial_StringTable/Str_Tutorial_PopUp_Transform_010,"The kudzu seal will fill up as you use Soul Siphon or attack enemies. Once it is full, you can use <img id=""ClawTransform""/> to Awaken your bestial form.","Kudzu mührü, Ruh Sifonunu kullandıkça veya düşmanlara saldırdıkça dolacaktır. Dolduğunda, <img id=""ClawTransform""/> kullanarak vahşi formunu Uyandırabilirsin."
+D_Tutorial_StringTable/Str_Tutorial_PopUp_Transform_010,"The kudzu seal will fill up as you use Soul Siphon or attack enemies. Once it is full, you can use <img id=""ClawTransform""/> to Awaken your bestial form.","Japonsarmaşığı mührü, Ruh Sifonunu kullandıkça veya düşmanlara saldırdıkça dolacaktır. Dolduğunda, <img id=""ClawTransform""/> kullanarak vahşi formunu Uyandırabilirsin."
 D_Tutorial_StringTable/Str_Tutorial_ClawTransform,"When the kudzu seal is full, use <img id=""ClawTransform""/> 
-to awaken your bestial form.","Kudzu mührü dolduğunda, <img id=""ClawTransform""/> kullanarak 
+to awaken your bestial form.","Japonsarmaşığı mührü dolduğunda, <img id=""ClawTransform""/> kullanarak 
 vahşi formunu uyandır."
 D_Tutorial_StringTable/Str_Tutorial_EnemyLink,"When grabbed by an enemy, 
 your Health and Sanity will drop significantly.","Bir düşman tarafından yakalandığınızda, 
@@ -9571,7 +9571,7 @@ D_Tutorial_StringTable/Str_Tutorial_PopUp_EnemyLink_020,"When grabbed by an enem
 D_Tutorial_StringTable/Str_Tutorial_PopUp_EnemyLink_Title,Grabbed by Enemies,Düşmanlar Tarafından Yakalandı
 D_Tutorial_StringTable/Str_Tutorial_PopUp_Transform_030,"Enemies that have been defeated using your bestial form will not reanimate. While attacking using <img id=""LightAttack""/>, you can unleash a devastating attack with <img id=""heavyattack""/>. Holding down the attack for longer will allow you to deal even more damage.","Hayvani formunuzu kullanarak yenilen düşmanlar yeniden canlanmayacak. <img id=""LightAttack""/> kullanarak saldırırken, <img id=""heavyattack""/> ile yıkıcı bir saldırı başlatabilirsiniz. Saldırıyı daha uzun süre basılı tutmak, daha da fazla hasar vermenizi sağlayacaktır."
 D_Tutorial_StringTable/Str_Tutorial_PopUp_ClawKill_030,Enemies killed using the fox arm's Focus Attack will not reanimate.,Tilki kolunun Odak Saldırısı kullanılarak öldürülen düşmanlar yeniden canlanmayacak.
-D_Tutorial_StringTable/Str_Tutorial_PopUp_Transform_020,"Use <img id=""ClawTransform""/> while in your bestial form to revert the fox arm to its normal state. The kudzu seal will deplete while you are Awakened. However, if you revert the fox arm before the seal runs out, then the seal will remain partially filled.","Tilki kolunu normal haline döndürmek için canavar formundayken <img id=""ClawTransform""/> kullanın. Uyanmış durumdayken kudzu mührü tükenecektir. Ancak, mühür bitmeden tilki kolunu eski haline döndürürseniz, mühür kısmen dolu kalacaktır."
+D_Tutorial_StringTable/Str_Tutorial_PopUp_Transform_020,"Use <img id=""ClawTransform""/> while in your bestial form to revert the fox arm to its normal state. The kudzu seal will deplete while you are Awakened. However, if you revert the fox arm before the seal runs out, then the seal will remain partially filled.","Tilki kolunu normal haline döndürmek için canavar formundayken <img id=""ClawTransform""/> kullanın. Uyanmış durumdayken japonsarmaşığı mührü tükenecektir. Ancak, mühür bitmeden tilki kolunu eski haline döndürürseniz, mühür kısmen dolu kalacaktır."
 D_Tutorial_StringTable/Str_Tutorial_PopUp_Transform_040,"While in your Awakened form, you can perform a Counter using <img id=""HeavyAttack""/> so long as a counter is possible—even if you are already in the middle of an attack.","Uyanmış formundayken, bir karşı atak mümkün olduğu sürece <img id=""HeavyAttack""/> kullanarak Karşı Atak yapabilirsiniz—zaten bir saldırının ortasında olsanız bile."
 D_Tutorial_StringTable/Str_Tutorial_PopUp_Sanity_010,"Your Sanity will deplete when you use Focus
 or take psychological damage from enemies.
@@ -10017,10 +10017,10 @@ It's frail, so I'll need to handle it with care.","Et ve balık dilimlemek için
 Narin olduğu için dikkatli kullanmam gerekecek."
 D_Weapon_StringTable/Str_Wep_Sickle_000,Sickle,Orak
 D_Weapon_StringTable/Str_Wep_Pipe_000,Steel Pipe,Çelik Boru
-D_Weapon_StringTable/Str_Wep_Hammer_000,Sledgehammer,Balta
+D_Weapon_StringTable/Str_Wep_Hammer_000,Sledgehammer,Balyoz
 D_Weapon_StringTable/Str_Wep_Pipe_001_Des,"I didn't notice that it got this bent.
-I should look for a new one before this one gives out on me completely.","Bunun bu kadar eğildiğini fark etmedim bile.
-Bu tamamen bozulmadan yenisini bulmalıyım."
+I should look for a new one before this one gives out on me completely.","Bunun bu kadar eğildiğini fark etmemişim.
+Bu tamamen bozulmadan önce yenisini bulmalıyım."
 D_Weapon_StringTable/Str_Wep_Pipe_000_Des,"A rusty but sturdy steel pipe.
 It's long enough to work as a makeshift weapon.","Paslı ama sağlam bir çelik boru.
 Geçici bir silah olarak kullanılabilecek kadar uzun."
@@ -10034,7 +10034,7 @@ NewStringTable/Str_Ch16A_SMZ_VO_ShuCallA_020,I... I just...,Ben... Ben sadece...
 NewStringTable/Str_Ch16A_SMZ_VO_EnemyCallB_020,"You stole Shu from me. 
 I'll NEVER forgive you!","Benden Shu'yu çaldın. 
 Seni ASLA affetmeyeceğim!"
-NewStringTable/Str_Ch16A_SMZ_VO_HinakoYellA_010,Stop it! Stop talking like my friends!,Kes şunu! Benim arkadaşlarımmış gibi konuşmayı kes!
+NewStringTable/Str_Ch16A_SMZ_VO_HinakoYellA_010,Stop it! Stop talking like my friends!,Kes şunu! Arkadaşlarım gibi konuşmayı kes!
 NewStringTable/Str_Ch16A_SMZ_VO_EnemyCallA_010,"Hinako, we made a promise to each other,
 didn't we?","Hinako, birbirimize söz vermiştik,
 değil mi?"
