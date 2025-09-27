@@ -20,6 +20,6 @@ DO NOT EDIT 'KEY' or 'SOURCE' columns!!!
 ```
 # UPDATE
 ```
-The localization is completed between line 1 and line 700.
-TOTAL COMPLETION PERCENTAGE = 14.69%
+The localization is completed between line 1 and line 1500.
+TOTAL COMPLETION PERCENTAGE = 31.49%
 ```
